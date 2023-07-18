@@ -1,0 +1,83 @@
+/**{ 
+    box-sizing: border-box;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid black;
+  
+}
+.logo{
+    width: 200px;
+    height: 100px;
+    
+}
+.nav-items{
+    display: flex;
+    list-style: none;
+    
+    
+   
+}
+.nav-items,li{
+    padding: 10px;
+    margin: 10px;
+    font-family: 'Roboto', sans-serif;
+   
+}
+.res-card{
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid black;
+    width: 250px;
+   
+    
+    
+    
+    
+   
+
+}
+.res-card:hover{
+    cursor: pointer;
+    border: 1px solid black;
+}
+.resturant-containers{
+    display: flex;
+    padding: 10px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    font-family: 'Roboto', sans-serif;
+}
+.search{
+    padding: 10px;
+}
+.res-logo{
+    
+    width: 100%;
+
+
+}
+.res-des{
+   row-gap: 2px;
+}
+.filter-btn{
+    margin: 10px;
+    cursor: pointer;
+}
+.resturant-lists{
+    display: flex;
+}
+.shimmer-card{
+    width: 250px;
+    
+    justify-content: space-around;
+    height: 250px;
+    background-color: grey;
+    margin: 20px;
+}
+*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

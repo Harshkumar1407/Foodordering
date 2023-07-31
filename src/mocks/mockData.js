@@ -1,4 +1,4 @@
-export const RESTURANT_DATA={
+export const RESTAURANT_DATA = {
     "statusCode": 0,
     "data": {
         "cacheExpiryTime": 320,
@@ -13,11 +13,6 @@ export const RESTURANT_DATA={
                 "configType": "checkbox",
                 "visible": 1,
                 "options": [
-                    {
-                        "option": "Afghani",
-                        "selected": 0,
-                        "visible": 1
-                    },
                     {
                         "option": "American",
                         "selected": 0,
@@ -64,27 +59,12 @@ export const RESTURANT_DATA={
                         "visible": 1
                     },
                     {
-                        "option": "Bhutanese",
-                        "selected": 0,
-                        "visible": 1
-                    },
-                    {
-                        "option": "Bihari",
-                        "selected": 0,
-                        "visible": 1
-                    },
-                    {
                         "option": "Biryani",
                         "selected": 0,
                         "visible": 1
                     },
                     {
                         "option": "Burgers",
-                        "selected": 0,
-                        "visible": 1
-                    },
-                    {
-                        "option": "Burmese",
                         "selected": 0,
                         "visible": 1
                     },
@@ -139,12 +119,7 @@ export const RESTURANT_DATA={
                         "visible": 1
                     },
                     {
-                        "option": "French",
-                        "selected": 0,
-                        "visible": 1
-                    },
-                    {
-                        "option": "Goan",
+                        "option": "German",
                         "selected": 0,
                         "visible": 1
                     },
@@ -155,16 +130,6 @@ export const RESTURANT_DATA={
                     },
                     {
                         "option": "Grill",
-                        "selected": 0,
-                        "visible": 1
-                    },
-                    {
-                        "option": "Gujarati",
-                        "selected": 0,
-                        "visible": 1
-                    },
-                    {
-                        "option": "Haleem",
                         "selected": 0,
                         "visible": 1
                     },
@@ -199,17 +164,7 @@ export const RESTURANT_DATA={
                         "visible": 1
                     },
                     {
-                        "option": "Indonesian",
-                        "selected": 0,
-                        "visible": 1
-                    },
-                    {
                         "option": "Italian",
-                        "selected": 0,
-                        "visible": 1
-                    },
-                    {
-                        "option": "Italian-American",
                         "selected": 0,
                         "visible": 1
                     },
@@ -229,11 +184,6 @@ export const RESTURANT_DATA={
                         "visible": 1
                     },
                     {
-                        "option": "Kashmiri",
-                        "selected": 0,
-                        "visible": 1
-                    },
-                    {
                         "option": "Kebabs",
                         "selected": 0,
                         "visible": 1
@@ -245,11 +195,6 @@ export const RESTURANT_DATA={
                     },
                     {
                         "option": "Keto",
-                        "selected": 0,
-                        "visible": 1
-                    },
-                    {
-                        "option": "Konkan",
                         "selected": 0,
                         "visible": 1
                     },
@@ -279,16 +224,6 @@ export const RESTURANT_DATA={
                         "visible": 1
                     },
                     {
-                        "option": "Mangalorean",
-                        "selected": 0,
-                        "visible": 1
-                    },
-                    {
-                        "option": "Meat",
-                        "selected": 0,
-                        "visible": 1
-                    },
-                    {
                         "option": "Mediterranean",
                         "selected": 0,
                         "visible": 1
@@ -299,17 +234,7 @@ export const RESTURANT_DATA={
                         "visible": 1
                     },
                     {
-                        "option": "Middle Eastern",
-                        "selected": 0,
-                        "visible": 1
-                    },
-                    {
                         "option": "Mughlai",
-                        "selected": 0,
-                        "visible": 1
-                    },
-                    {
-                        "option": "Naga",
                         "selected": 0,
                         "visible": 1
                     },
@@ -349,11 +274,6 @@ export const RESTURANT_DATA={
                         "visible": 1
                     },
                     {
-                        "option": "Parsi",
-                        "selected": 0,
-                        "visible": 1
-                    },
-                    {
                         "option": "Pastas",
                         "selected": 0,
                         "visible": 1
@@ -374,11 +294,6 @@ export const RESTURANT_DATA={
                         "visible": 1
                     },
                     {
-                        "option": "Raja",
-                        "selected": 0,
-                        "visible": 1
-                    },
-                    {
                         "option": "Rajasthani",
                         "selected": 0,
                         "visible": 1
@@ -394,11 +309,6 @@ export const RESTURANT_DATA={
                         "visible": 1
                     },
                     {
-                        "option": "Singaporean",
-                        "selected": 0,
-                        "visible": 1
-                    },
-                    {
                         "option": "Snacks",
                         "selected": 0,
                         "visible": 1
@@ -409,17 +319,7 @@ export const RESTURANT_DATA={
                         "visible": 1
                     },
                     {
-                        "option": "Steakhouse",
-                        "selected": 0,
-                        "visible": 1
-                    },
-                    {
                         "option": "Street Food",
-                        "selected": 0,
-                        "visible": 1
-                    },
-                    {
-                        "option": "Sushi",
                         "selected": 0,
                         "visible": 1
                     },
@@ -455,11 +355,6 @@ export const RESTURANT_DATA={
                     },
                     {
                         "option": "Turkish",
-                        "selected": 0,
-                        "visible": 1
-                    },
-                    {
-                        "option": "Vietnamese",
                         "selected": 0,
                         "visible": 1
                     },
@@ -793,27 +688,6 @@ export const RESTURANT_DATA={
                                 "type": "carouselElement",
                                 "subtype": "image",
                                 "data": {
-                                    "bannerId": 181685,
-                                    "creativeId": "auhzanqqslsq5meh0m9l",
-                                    "type": "restaurantCollectionV2",
-                                    "link": "11709",
-                                    "cityId": 0,
-                                    "restaurantUuid": "",
-                                    "restaurantParentId": "0",
-                                    "title": "Only on Swiggy",
-                                    "subtitle": "0 OPTIONS",
-                                    "restaurants": [],
-                                    "totalCount": 0,
-                                    "dwebOpenFilterTitle": "Only on Swiggy",
-                                    "dwebOpenFilterBgColor": "#FF0000",
-                                    "dwebOpenFilterSelectIcon": "tvjhvfzjhbxune2idler",
-                                    "dwebOpenFilterDeselectIcon": "y4vnumwu4f8olsly1hnw"
-                                }
-                            },
-                            {
-                                "type": "carouselElement",
-                                "subtype": "image",
-                                "data": {
                                     "bannerId": 181680,
                                     "creativeId": "a3jqjjod5taken7dh1bs",
                                     "type": "restaurantCollectionV2",
@@ -843,38 +717,49 @@ export const RESTURANT_DATA={
                     "type": "seeAllRestaurants",
                     "data": {
                         "title": "SEE ALL",
-                        "totalOpenRestaurants": 1386,
+                        "totalOpenRestaurants": 810,
                         "cards": [
                             {
                                 "type": "restaurant",
                                 "data": {
                                     "type": "F",
-                                    "id": "18466",
-                                    "name": "Helloo Delhi",
-                                    "uuid": "c11c1470-b782-4358-a3cf-01545eae343b",
+                                    "id": "78138",
+                                    "name": "Imperio Restaurant",
+                                    "uuid": "7251486d-55a6-4ca0-ac99-e1e6cd4a7834",
                                     "city": "1",
-                                    "area": "Koramangala",
+                                    "area": "Marathahalli",
                                     "totalRatingsString": "10000+ ratings",
-                                    "cloudinaryImageId": "bccd3dwxixe4rim4koe1",
+                                    "cloudinaryImageId": "a1629b9c7f59577a55411e94425c6d99",
                                     "cuisines": [
-                                        "North Indian"
+                                        "Chinese",
+                                        "South Indian",
+                                        "North Indian",
+                                        "Desserts",
+                                        "Kerala",
+                                        "Andhra",
+                                        "Beverages",
+                                        "Mughlai",
+                                        "Seafood",
+                                        "Punjabi",
+                                        "Hyderabadi",
+                                        "Thai"
                                     ],
                                     "tags": [],
-                                    "costForTwo": 33600,
-                                    "costForTwoString": "₹336 FOR TWO",
-                                    "deliveryTime": 25,
-                                    "minDeliveryTime": 25,
-                                    "maxDeliveryTime": 25,
-                                    "slaString": "25 MINS",
-                                    "lastMileTravel": 4.599999904632568,
+                                    "costForTwo": 30000,
+                                    "costForTwoString": "₹300 FOR TWO",
+                                    "deliveryTime": 21,
+                                    "minDeliveryTime": 21,
+                                    "maxDeliveryTime": 21,
+                                    "slaString": "21 MINS",
+                                    "lastMileTravel": 0.6000000238418579,
                                     "slugs": {
-                                        "restaurant": "helloo-delhi-koramangala-4th-block-koramangala",
+                                        "restaurant": "imperio-restaurant-whitefield-whitefield-3",
                                         "city": "bangalore"
                                     },
                                     "cityState": "1",
-                                    "address": "#770, 80ft Road, Koramangla 4th Block, Bengaluru 560034",
-                                    "locality": "4th Block",
-                                    "parentId": 2330,
+                                    "address": "3A, squre plaza,ground floor, itpl main road,Kundalahalli,banglore.",
+                                    "locality": "kundalahalli",
+                                    "parentId": 5610,
                                     "unserviceable": false,
                                     "veg": false,
                                     "select": false,
@@ -889,13 +774,13 @@ export const RESTURANT_DATA={
                                     "feeDetails": {
                                         "fees": [
                                             {
-                                                "name": "distance",
-                                                "fee": 4000,
+                                                "name": "time",
+                                                "fee": 0,
                                                 "message": ""
                                             },
                                             {
-                                                "name": "time",
-                                                "fee": 0,
+                                                "name": "distance",
+                                                "fee": 3300,
                                                 "message": ""
                                             },
                                             {
@@ -904,28 +789,28 @@ export const RESTURANT_DATA={
                                                 "message": ""
                                             }
                                         ],
-                                        "totalFees": 4000,
+                                        "totalFees": 3300,
                                         "message": "",
                                         "title": "Delivery Charge",
-                                        "amount": "4000",
+                                        "amount": "3300",
                                         "icon": ""
                                     },
                                     "availability": {
                                         "opened": true,
                                         "nextOpenMessage": "",
-                                        "nextCloseMessage": "Closes soon"
+                                        "nextCloseMessage": ""
                                     },
                                     "longDistanceEnabled": 0,
                                     "rainMode": "NONE",
                                     "thirdPartyAddress": false,
                                     "thirdPartyVendor": "",
-                                    "adTrackingID": "cid=7150109~p=1~eid=00000188-d4a6-e2b0-017b-6f54007c0169~srvts=1687194886832",
+                                    "adTrackingID": "cid=7150721~p=1~eid=00000188-cfb9-c67e-14e0-1f49004b0123",
                                     "badges": {
                                         "imageBased": [],
                                         "textBased": [],
                                         "textExtendedBadges": []
                                     },
-                                    "lastMileTravelString": "4.5 kms",
+                                    "lastMileTravelString": "0.6 kms",
                                     "hasSurge": false,
                                     "aggregatedDiscountInfoV3": {
                                         "header": "20% OFF",
@@ -934,11 +819,11 @@ export const RESTURANT_DATA={
                                         "headerTypeV2": 0
                                     },
                                     "sla": {
-                                        "restaurantId": "18466",
-                                        "deliveryTime": 25,
-                                        "minDeliveryTime": 25,
-                                        "maxDeliveryTime": 25,
-                                        "lastMileTravel": 4.599999904632568,
+                                        "restaurantId": "78138",
+                                        "deliveryTime": 21,
+                                        "minDeliveryTime": 21,
+                                        "maxDeliveryTime": 21,
+                                        "lastMileTravel": 0.6000000238418579,
                                         "lastMileDistance": 0,
                                         "serviceability": "SERVICEABLE",
                                         "rainMode": "NONE",
@@ -947,7 +832,7 @@ export const RESTURANT_DATA={
                                         "iconType": "EMPTY"
                                     },
                                     "promoted": true,
-                                    "avgRating": "4.3",
+                                    "avgRating": "3.9",
                                     "totalRatings": 10000,
                                     "new": false
                                 },
@@ -957,13 +842,13 @@ export const RESTURANT_DATA={
                                 "type": "restaurant",
                                 "data": {
                                     "type": "F",
-                                    "id": "3241",
+                                    "id": "221738",
                                     "name": "Meghana Foods",
-                                    "uuid": "93695df0-56e1-417e-b9a8-32084ebaadaf",
+                                    "uuid": "106f4556-6804-4554-8c68-ee875d6acf65",
                                     "city": "1",
-                                    "area": "Ashok Nagar",
+                                    "area": "Brookefield",
                                     "totalRatingsString": "10000+ ratings",
-                                    "cloudinaryImageId": "e0vvulfbahjxjz6k4uwi",
+                                    "cloudinaryImageId": "aqsnrylokzpn45qhg1pb",
                                     "cuisines": [
                                         "Biryani",
                                         "Andhra",
@@ -975,18 +860,18 @@ export const RESTURANT_DATA={
                                     "tags": [],
                                     "costForTwo": 50000,
                                     "costForTwoString": "₹500 FOR TWO",
-                                    "deliveryTime": 18,
-                                    "minDeliveryTime": 18,
-                                    "maxDeliveryTime": 18,
-                                    "slaString": "18 MINS",
-                                    "lastMileTravel": 2.5999999046325684,
+                                    "deliveryTime": 16,
+                                    "minDeliveryTime": 16,
+                                    "maxDeliveryTime": 16,
+                                    "slaString": "16 MINS",
+                                    "lastMileTravel": 2,
                                     "slugs": {
-                                        "restaurant": "meghana-foods-central-bangalore",
+                                        "restaurant": "meghana-foods-mahadevpura-mahadevpura",
                                         "city": "bangalore"
                                     },
                                     "cityState": "1",
-                                    "address": "57/1, 1st Floor, Jayalaxmi Chambers, Next to Old Galaxy Theatre,Residency Road, Bangalore",
-                                    "locality": "Residency Road",
+                                    "address": "Raj Pinnacle, Mahadevapura, Bengaluru, Karnataka, India",
+                                    "locality": "Mahadevpura",
                                     "parentId": 635,
                                     "unserviceable": false,
                                     "veg": false,
@@ -997,13 +882,13 @@ export const RESTURANT_DATA={
                                     "feeDetails": {
                                         "fees": [
                                             {
-                                                "name": "distance",
-                                                "fee": 3000,
+                                                "name": "time",
+                                                "fee": 0,
                                                 "message": ""
                                             },
                                             {
-                                                "name": "time",
-                                                "fee": 0,
+                                                "name": "distance",
+                                                "fee": 3300,
                                                 "message": ""
                                             },
                                             {
@@ -1012,10 +897,10 @@ export const RESTURANT_DATA={
                                                 "message": ""
                                             }
                                         ],
-                                        "totalFees": 3000,
+                                        "totalFees": 3300,
                                         "message": "",
                                         "title": "Delivery Charge",
-                                        "amount": "3000",
+                                        "amount": "3300",
                                         "icon": ""
                                     },
                                     "availability": {
@@ -1033,14 +918,14 @@ export const RESTURANT_DATA={
                                         "textBased": [],
                                         "textExtendedBadges": []
                                     },
-                                    "lastMileTravelString": "2.5 kms",
+                                    "lastMileTravelString": "2 kms",
                                     "hasSurge": false,
                                     "sla": {
-                                        "restaurantId": "3241",
-                                        "deliveryTime": 18,
-                                        "minDeliveryTime": 18,
-                                        "maxDeliveryTime": 18,
-                                        "lastMileTravel": 2.5999999046325684,
+                                        "restaurantId": "221738",
+                                        "deliveryTime": 16,
+                                        "minDeliveryTime": 16,
+                                        "maxDeliveryTime": 16,
+                                        "lastMileTravel": 2,
                                         "lastMileDistance": 0,
                                         "serviceability": "SERVICEABLE",
                                         "rainMode": "NONE",
@@ -1049,7 +934,7 @@ export const RESTURANT_DATA={
                                         "iconType": "EMPTY"
                                     },
                                     "promoted": false,
-                                    "avgRating": "4.5",
+                                    "avgRating": "4.3",
                                     "totalRatings": 10000,
                                     "new": false
                                 },
@@ -1059,358 +944,34 @@ export const RESTURANT_DATA={
                                 "type": "restaurant",
                                 "data": {
                                     "type": "F",
-                                    "id": "428",
-                                    "name": "Biryani Pot",
-                                    "uuid": "6db20a8b-dd85-4148-b750-107169f7f826",
+                                    "id": "422600",
+                                    "name": "Third Wave Coffee",
+                                    "uuid": "d3cb42c3-2c23-429f-abdb-c36847aed905",
                                     "city": "1",
-                                    "area": "Btm Layout",
-                                    "totalRatingsString": "10000+ ratings",
-                                    "cloudinaryImageId": "mdipoyzfzsa7n7igskht",
+                                    "area": "Mahadevpura",
+                                    "totalRatingsString": "100+ ratings",
+                                    "cloudinaryImageId": "0dca660dbdf2e04f9b861c4426ffd41e",
                                     "cuisines": [
-                                        "North Indian",
-                                        "Biryani"
-                                    ],
-                                    "tags": [],
-                                    "costForTwo": 50000,
-                                    "costForTwoString": "₹500 FOR TWO",
-                                    "deliveryTime": 25,
-                                    "minDeliveryTime": 25,
-                                    "maxDeliveryTime": 25,
-                                    "slaString": "25 MINS",
-                                    "lastMileTravel": 5.699999809265137,
-                                    "slugs": {
-                                        "restaurant": "biryani-pot-madiwala-junction-btm",
-                                        "city": "bangalore"
-                                    },
-                                    "cityState": "1",
-                                    "address": "14th  Cross, 4th link Road Maruthi Nagar Madiwala Bangalore 68",
-                                    "locality": "Maruti Nagar",
-                                    "parentId": 21798,
-                                    "unserviceable": false,
-                                    "veg": false,
-                                    "select": false,
-                                    "favorite": false,
-                                    "tradeCampaignHeaders": [],
-                                    "chain": [],
-                                    "feeDetails": {
-                                        "fees": [
-                                            {
-                                                "name": "distance",
-                                                "fee": 5500,
-                                                "message": ""
-                                            },
-                                            {
-                                                "name": "time",
-                                                "fee": 0,
-                                                "message": ""
-                                            },
-                                            {
-                                                "name": "special",
-                                                "fee": 0,
-                                                "message": ""
-                                            }
-                                        ],
-                                        "totalFees": 5500,
-                                        "message": "",
-                                        "title": "Delivery Charge",
-                                        "amount": "5500",
-                                        "icon": ""
-                                    },
-                                    "availability": {
-                                        "opened": true,
-                                        "nextOpenMessage": "",
-                                        "nextCloseMessage": ""
-                                    },
-                                    "longDistanceEnabled": 1,
-                                    "rainMode": "NONE",
-                                    "thirdPartyAddress": false,
-                                    "thirdPartyVendor": "",
-                                    "adTrackingID": "",
-                                    "badges": {
-                                        "imageBased": [],
-                                        "textBased": [],
-                                        "textExtendedBadges": []
-                                    },
-                                    "lastMileTravelString": "5.6 kms",
-                                    "hasSurge": false,
-                                    "aggregatedDiscountInfoV3": {
-                                        "header": "20% OFF",
-                                        "subHeader": "UPTO ₹50",
-                                        "discountTag": "",
-                                        "headerTypeV2": 0
-                                    },
-                                    "sla": {
-                                        "restaurantId": "428",
-                                        "deliveryTime": 25,
-                                        "minDeliveryTime": 25,
-                                        "maxDeliveryTime": 25,
-                                        "lastMileTravel": 5.699999809265137,
-                                        "lastMileDistance": 0,
-                                        "serviceability": "SERVICEABLE",
-                                        "rainMode": "NONE",
-                                        "longDistance": "IT_IS_LONG_DISTANCE",
-                                        "preferentialService": false,
-                                        "iconType": "EMPTY"
-                                    },
-                                    "promoted": false,
-                                    "avgRating": "3.9",
-                                    "totalRatings": 10000,
-                                    "new": false
-                                },
-                                "subtype": "basic"
-                            },
-                            {
-                                "type": "restaurant",
-                                "data": {
-                                    "type": "F",
-                                    "id": "241420",
-                                    "name": "Misu",
-                                    "uuid": "807f2167-b89b-4df9-a139-a45655a36d5e",
-                                    "city": "1",
-                                    "area": "Seshadripuram",
-                                    "totalRatingsString": "1000+ ratings",
-                                    "cloudinaryImageId": "sfiv4ftxpr8lihrj9scz",
-                                    "cuisines": [
-                                        "Asian",
-                                        "Chinese",
-                                        "Vietnamese",
-                                        "Malaysian",
-                                        "Sushi",
-                                        "Singaporean",
-                                        "Desserts"
-                                    ],
-                                    "tags": [],
-                                    "costForTwo": 130000,
-                                    "costForTwoString": "₹1300 FOR TWO",
-                                    "deliveryTime": 36,
-                                    "minDeliveryTime": 36,
-                                    "maxDeliveryTime": 36,
-                                    "slaString": "36 MINS",
-                                    "lastMileTravel": 5,
-                                    "slugs": {
-                                        "restaurant": "misu-majestic-majestic",
-                                        "city": "bangalore"
-                                    },
-                                    "cityState": "1",
-                                    "address": "MISU TRADE TOWERS, PRESTIGE TRADE TOWERS, GROUND FLOOR PLACE ROAD",
-                                    "locality": "Palace Road",
-                                    "parentId": 7415,
-                                    "unserviceable": false,
-                                    "veg": false,
-                                    "select": false,
-                                    "favorite": false,
-                                    "tradeCampaignHeaders": [],
-                                    "ribbon": [
-                                        {
-                                            "type": "PROMOTED"
-                                        }
-                                    ],
-                                    "chain": [],
-                                    "feeDetails": {
-                                        "fees": [
-                                            {
-                                                "name": "distance",
-                                                "fee": 5500,
-                                                "message": ""
-                                            },
-                                            {
-                                                "name": "time",
-                                                "fee": 0,
-                                                "message": ""
-                                            },
-                                            {
-                                                "name": "special",
-                                                "fee": 0,
-                                                "message": ""
-                                            }
-                                        ],
-                                        "totalFees": 5500,
-                                        "message": "",
-                                        "title": "Delivery Charge",
-                                        "amount": "5500",
-                                        "icon": ""
-                                    },
-                                    "availability": {
-                                        "opened": true,
-                                        "nextOpenMessage": "",
-                                        "nextCloseMessage": "Closes soon"
-                                    },
-                                    "longDistanceEnabled": 0,
-                                    "rainMode": "NONE",
-                                    "thirdPartyAddress": false,
-                                    "thirdPartyVendor": "",
-                                    "adTrackingID": "cid=6918688~p=4~eid=00000188-d4a6-e2b0-017b-6f55007c0464~srvts=1687194886832",
-                                    "badges": {
-                                        "imageBased": [],
-                                        "textBased": [],
-                                        "textExtendedBadges": []
-                                    },
-                                    "lastMileTravelString": "5 kms",
-                                    "hasSurge": false,
-                                    "aggregatedDiscountInfoV3": {
-                                        "header": "50% OFF",
-                                        "subHeader": "UPTO ₹100",
-                                        "discountTag": "",
-                                        "headerTypeV2": 0
-                                    },
-                                    "sla": {
-                                        "restaurantId": "241420",
-                                        "deliveryTime": 36,
-                                        "minDeliveryTime": 36,
-                                        "maxDeliveryTime": 36,
-                                        "lastMileTravel": 5,
-                                        "lastMileDistance": 0,
-                                        "serviceability": "SERVICEABLE",
-                                        "rainMode": "NONE",
-                                        "longDistance": "NOT_LONG_DISTANCE",
-                                        "preferentialService": false,
-                                        "iconType": "EMPTY"
-                                    },
-                                    "promoted": true,
-                                    "avgRating": "4.2",
-                                    "totalRatings": 1000,
-                                    "new": false
-                                },
-                                "subtype": "basic"
-                            },
-                            {
-                                "type": "restaurant",
-                                "data": {
-                                    "type": "F",
-                                    "id": "121603",
-                                    "name": "Kannur Food Point",
-                                    "uuid": "51983905-e698-4e31-b0d7-e376eca56320",
-                                    "city": "1",
-                                    "area": "Tavarekere",
-                                    "totalRatingsString": "10000+ ratings",
-                                    "cloudinaryImageId": "bmwn4n4bn6n1tcpc8x2h",
-                                    "cuisines": [
-                                        "Kerala",
-                                        "Chinese"
-                                    ],
-                                    "tags": [],
-                                    "costForTwo": 30000,
-                                    "costForTwoString": "₹300 FOR TWO",
-                                    "deliveryTime": 23,
-                                    "minDeliveryTime": 23,
-                                    "maxDeliveryTime": 23,
-                                    "slaString": "23 MINS",
-                                    "lastMileTravel": 5,
-                                    "slugs": {
-                                        "restaurant": "kannur-food-point-btm",
-                                        "city": "bangalore"
-                                    },
-                                    "cityState": "1",
-                                    "address": "6/21,9TH CROSS ,1ST MAIN, VENKATESHWARA LAYOUT,SG PALYA, BENGALURU, - 560093",
-                                    "locality": "SG Palya",
-                                    "parentId": 20974,
-                                    "unserviceable": false,
-                                    "veg": false,
-                                    "select": false,
-                                    "favorite": false,
-                                    "tradeCampaignHeaders": [],
-                                    "chain": [],
-                                    "feeDetails": {
-                                        "fees": [
-                                            {
-                                                "name": "distance",
-                                                "fee": 5500,
-                                                "message": ""
-                                            },
-                                            {
-                                                "name": "time",
-                                                "fee": 0,
-                                                "message": ""
-                                            },
-                                            {
-                                                "name": "special",
-                                                "fee": 0,
-                                                "message": ""
-                                            }
-                                        ],
-                                        "totalFees": 5500,
-                                        "message": "",
-                                        "title": "Delivery Charge",
-                                        "amount": "5500",
-                                        "icon": ""
-                                    },
-                                    "availability": {
-                                        "opened": true,
-                                        "nextOpenMessage": "",
-                                        "nextCloseMessage": ""
-                                    },
-                                    "longDistanceEnabled": 1,
-                                    "rainMode": "NONE",
-                                    "thirdPartyAddress": false,
-                                    "thirdPartyVendor": "",
-                                    "adTrackingID": "",
-                                    "badges": {
-                                        "imageBased": [],
-                                        "textBased": [],
-                                        "textExtendedBadges": []
-                                    },
-                                    "lastMileTravelString": "5 kms",
-                                    "hasSurge": false,
-                                    "aggregatedDiscountInfoV3": {
-                                        "header": "50% OFF",
-                                        "subHeader": "",
-                                        "discountTag": "FLAT DEAL",
-                                        "headerTypeV2": 0
-                                    },
-                                    "sla": {
-                                        "restaurantId": "121603",
-                                        "deliveryTime": 23,
-                                        "minDeliveryTime": 23,
-                                        "maxDeliveryTime": 23,
-                                        "lastMileTravel": 5,
-                                        "lastMileDistance": 0,
-                                        "serviceability": "SERVICEABLE",
-                                        "rainMode": "NONE",
-                                        "longDistance": "IT_IS_LONG_DISTANCE",
-                                        "preferentialService": false,
-                                        "iconType": "EMPTY"
-                                    },
-                                    "promoted": false,
-                                    "avgRating": "3.9",
-                                    "totalRatings": 10000,
-                                    "new": false
-                                },
-                                "subtype": "basic"
-                            },
-                            {
-                                "type": "restaurant",
-                                "data": {
-                                    "type": "F",
-                                    "id": "342643",
-                                    "name": "The Pizza Bakery",
-                                    "uuid": "fdf44d9a-3d5f-4c7d-aac7-80bc3a1d68d0",
-                                    "city": "1",
-                                    "area": "Ashok Nagar",
-                                    "totalRatingsString": "1000+ ratings",
-                                    "cloudinaryImageId": "l7zme8yryk6adeakj6jy",
-                                    "cuisines": [
-                                        "Pizzas",
-                                        "Pastas",
-                                        "Italian",
-                                        "Desserts",
+                                        "Beverages",
+                                        "Bakery",
                                         "Continental"
                                     ],
                                     "tags": [],
-                                    "costForTwo": 70000,
-                                    "costForTwoString": "₹700 FOR TWO",
-                                    "deliveryTime": 25,
-                                    "minDeliveryTime": 25,
-                                    "maxDeliveryTime": 25,
-                                    "slaString": "25 MINS",
-                                    "lastMileTravel": 3,
+                                    "costForTwo": 40000,
+                                    "costForTwoString": "₹400 FOR TWO",
+                                    "deliveryTime": 32,
+                                    "minDeliveryTime": 32,
+                                    "maxDeliveryTime": 32,
+                                    "slaString": "32 MINS",
+                                    "lastMileTravel": 6.400000095367432,
                                     "slugs": {
-                                        "restaurant": "the-pizza-bakery-central-bangalore-central-bangalore",
+                                        "restaurant": "third-wave-coffee-roasters-mahadevpura-mahadevpura",
                                         "city": "bangalore"
                                     },
                                     "cityState": "1",
-                                    "address": "The Pizza Bakery, 86, Spenser Building, Church Street, Bangalore 560001",
-                                    "locality": "Church Street",
-                                    "parentId": 11108,
+                                    "address": "Phoenix Market City, First floor No 40 & 41, Whitefield Main Road, Mahadebapura, Dyavasandra Industrial Area, Krishnarajapuram Hubli, Bengaluru, K R Puram, B.B.M.P East, Karnataka-560048",
+                                    "locality": "Phoenix Market City",
+                                    "parentId": 274773,
                                     "unserviceable": false,
                                     "veg": false,
                                     "select": false,
@@ -1425,13 +986,13 @@ export const RESTURANT_DATA={
                                     "feeDetails": {
                                         "fees": [
                                             {
-                                                "name": "distance",
-                                                "fee": 4000,
+                                                "name": "time",
+                                                "fee": 0,
                                                 "message": ""
                                             },
                                             {
-                                                "name": "time",
-                                                "fee": 0,
+                                                "name": "distance",
+                                                "fee": 7600,
                                                 "message": ""
                                             },
                                             {
@@ -1440,10 +1001,10 @@ export const RESTURANT_DATA={
                                                 "message": ""
                                             }
                                         ],
-                                        "totalFees": 4000,
+                                        "totalFees": 7600,
                                         "message": "",
                                         "title": "Delivery Charge",
-                                        "amount": "4000",
+                                        "amount": "7600",
                                         "icon": ""
                                     },
                                     "availability": {
@@ -1455,13 +1016,13 @@ export const RESTURANT_DATA={
                                     "rainMode": "NONE",
                                     "thirdPartyAddress": false,
                                     "thirdPartyVendor": "",
-                                    "adTrackingID": "cid=7137636~p=7~eid=00000188-d4a6-e2b0-017b-6f56007c070f~srvts=1687194886832",
+                                    "adTrackingID": "cid=7102722~p=25~eid=00000188-cfb9-c67e-14e0-1f51004b1959",
                                     "badges": {
                                         "imageBased": [],
                                         "textBased": [],
                                         "textExtendedBadges": []
                                     },
-                                    "lastMileTravelString": "3 kms",
+                                    "lastMileTravelString": "6.4 kms",
                                     "hasSurge": false,
                                     "aggregatedDiscountInfoV3": {
                                         "header": "30% OFF",
@@ -1470,11 +1031,11 @@ export const RESTURANT_DATA={
                                         "headerTypeV2": 0
                                     },
                                     "sla": {
-                                        "restaurantId": "342643",
-                                        "deliveryTime": 25,
-                                        "minDeliveryTime": 25,
-                                        "maxDeliveryTime": 25,
-                                        "lastMileTravel": 3,
+                                        "restaurantId": "422600",
+                                        "deliveryTime": 32,
+                                        "minDeliveryTime": 32,
+                                        "maxDeliveryTime": 32,
+                                        "lastMileTravel": 6.400000095367432,
                                         "lastMileDistance": 0,
                                         "serviceability": "SERVICEABLE",
                                         "rainMode": "NONE",
@@ -1483,8 +1044,8 @@ export const RESTURANT_DATA={
                                         "iconType": "EMPTY"
                                     },
                                     "promoted": true,
-                                    "avgRating": "4.4",
-                                    "totalRatings": 1000,
+                                    "avgRating": "4.1",
+                                    "totalRatings": 100,
                                     "new": false
                                 },
                                 "subtype": "basic"
@@ -1493,34 +1054,35 @@ export const RESTURANT_DATA={
                                 "type": "restaurant",
                                 "data": {
                                     "type": "F",
-                                    "id": "210945",
-                                    "name": "Royal Restaurant",
-                                    "uuid": "9b33bca4-65e6-4a26-af3e-f47c4476ed4d",
+                                    "id": "1221",
+                                    "name": "Biryani Day",
+                                    "uuid": "1dec917e-3f4b-479b-b4db-f7095248bbd8",
                                     "city": "1",
-                                    "area": "Shivajinagar",
-                                    "totalRatingsString": "5000+ ratings",
-                                    "cloudinaryImageId": "yicweopn4lzcjlqy4jvq",
+                                    "area": "Marathahalli",
+                                    "totalRatingsString": "10000+ ratings",
+                                    "cloudinaryImageId": "ucpbuzrvhg0ire3h9hwu",
                                     "cuisines": [
-                                        "Chinese",
                                         "North Indian",
-                                        "Tandoor"
+                                        "Chinese",
+                                        "Andhra",
+                                        "Biryani"
                                     ],
                                     "tags": [],
-                                    "costForTwo": 30000,
-                                    "costForTwoString": "₹300 FOR TWO",
-                                    "deliveryTime": 30,
-                                    "minDeliveryTime": 30,
-                                    "maxDeliveryTime": 30,
-                                    "slaString": "30 MINS",
-                                    "lastMileTravel": 4.800000190734863,
+                                    "costForTwo": 25000,
+                                    "costForTwoString": "₹250 FOR TWO",
+                                    "deliveryTime": 20,
+                                    "minDeliveryTime": 20,
+                                    "maxDeliveryTime": 20,
+                                    "slaString": "20 MINS",
+                                    "lastMileTravel": 3.700000047683716,
                                     "slugs": {
-                                        "restaurant": "royal-restaurant-central-bangalore-central-bangalore",
+                                        "restaurant": "biryani-day-thulsi-theater-road-marathahalli",
                                         "city": "bangalore"
                                     },
                                     "cityState": "1",
-                                    "address": "Broadway Road Police Station, HKP Road, Sulthangunta, Shivajinagar, Bengaluru, Bangalore Urban, Karnataka, India",
-                                    "locality": "Sulthangunta",
-                                    "parentId": 2896,
+                                    "address": "No 389/2, 7th Cross, Thulsi Theater Road, Marathalli",
+                                    "locality": "Thulsi Theater Road",
+                                    "parentId": 2635,
                                     "unserviceable": false,
                                     "veg": false,
                                     "select": false,
@@ -1530,8 +1092,121 @@ export const RESTURANT_DATA={
                                     "feeDetails": {
                                         "fees": [
                                             {
+                                                "name": "time",
+                                                "fee": 0,
+                                                "message": ""
+                                            },
+                                            {
                                                 "name": "distance",
-                                                "fee": 4000,
+                                                "fee": 4100,
+                                                "message": ""
+                                            },
+                                            {
+                                                "name": "special",
+                                                "fee": 0,
+                                                "message": ""
+                                            }
+                                        ],
+                                        "totalFees": 4100,
+                                        "message": "",
+                                        "title": "Delivery Charge",
+                                        "amount": "4100",
+                                        "icon": ""
+                                    },
+                                    "availability": {
+                                        "opened": true,
+                                        "nextOpenMessage": "",
+                                        "nextCloseMessage": "Closes soon"
+                                    },
+                                    "longDistanceEnabled": 0,
+                                    "rainMode": "NONE",
+                                    "thirdPartyAddress": false,
+                                    "thirdPartyVendor": "",
+                                    "adTrackingID": "",
+                                    "badges": {
+                                        "imageBased": [],
+                                        "textBased": [],
+                                        "textExtendedBadges": []
+                                    },
+                                    "lastMileTravelString": "3.7 kms",
+                                    "hasSurge": false,
+                                    "aggregatedDiscountInfoV3": {
+                                        "header": "₹100 OFF",
+                                        "subHeader": "ABOVE ₹599",
+                                        "discountTag": "FLAT DEAL",
+                                        "headerTypeV2": 0
+                                    },
+                                    "sla": {
+                                        "restaurantId": "1221",
+                                        "deliveryTime": 20,
+                                        "minDeliveryTime": 20,
+                                        "maxDeliveryTime": 20,
+                                        "lastMileTravel": 3.700000047683716,
+                                        "lastMileDistance": 0,
+                                        "serviceability": "SERVICEABLE",
+                                        "rainMode": "NONE",
+                                        "longDistance": "NOT_LONG_DISTANCE",
+                                        "preferentialService": false,
+                                        "iconType": "EMPTY"
+                                    },
+                                    "promoted": false,
+                                    "avgRating": "3.7",
+                                    "totalRatings": 10000,
+                                    "new": false
+                                },
+                                "subtype": "basic"
+                            },
+                            {
+                                "type": "restaurant",
+                                "data": {
+                                    "type": "F",
+                                    "id": "345504",
+                                    "name": "Sharief Bhai",
+                                    "uuid": "4ccebd39-965b-4a35-adfe-354207c52bd1",
+                                    "city": "1",
+                                    "area": "Sarjapur Road",
+                                    "totalRatingsString": "5000+ ratings",
+                                    "cloudinaryImageId": "i3k6f8biievi3k7rekzd",
+                                    "cuisines": [
+                                        "Mughlai",
+                                        "Biryani",
+                                        "Arabian",
+                                        "Kebabs",
+                                        "Beverages",
+                                        "Desserts"
+                                    ],
+                                    "tags": [],
+                                    "costForTwo": 40000,
+                                    "costForTwoString": "₹400 FOR TWO",
+                                    "deliveryTime": 35,
+                                    "minDeliveryTime": 35,
+                                    "maxDeliveryTime": 35,
+                                    "slaString": "35 MINS",
+                                    "lastMileTravel": 9.5,
+                                    "slugs": {
+                                        "restaurant": "sharief-bhai-bellandur-sarjapur-bellandur-sarjapur-3",
+                                        "city": "bangalore"
+                                    },
+                                    "cityState": "1",
+                                    "address": "Bearing Number 1,2,3 Situdated at Ambalipura villaga, Sarjapura Main Road, Bellandur Gate, Bangalore 560102,B.B.M.P East",
+                                    "locality": "Sarjapur Road",
+                                    "parentId": 5734,
+                                    "unserviceable": false,
+                                    "veg": false,
+                                    "select": false,
+                                    "favorite": false,
+                                    "tradeCampaignHeaders": [],
+                                    "ribbon": [
+                                        {
+                                            "type": "PROMOTED"
+                                        }
+                                    ],
+                                    "chain": [],
+                                    "feeDetails": {
+                                        "fees": [
+                                            {
+                                                "name": "distance",
+                                                "fee": 11600,
                                                 "message": ""
                                             },
                                             {
@@ -1545,10 +1220,10 @@ export const RESTURANT_DATA={
                                                 "message": ""
                                             }
                                         ],
-                                        "totalFees": 4000,
+                                        "totalFees": 11600,
                                         "message": "",
                                         "title": "Delivery Charge",
-                                        "amount": "4000",
+                                        "amount": "11600",
                                         "icon": ""
                                     },
                                     "availability": {
@@ -1556,39 +1231,39 @@ export const RESTURANT_DATA={
                                         "nextOpenMessage": "",
                                         "nextCloseMessage": ""
                                     },
-                                    "longDistanceEnabled": 1,
+                                    "longDistanceEnabled": 0,
                                     "rainMode": "NONE",
                                     "thirdPartyAddress": false,
                                     "thirdPartyVendor": "",
-                                    "adTrackingID": "",
+                                    "adTrackingID": "cid=7117951~p=7~eid=00000188-cfb9-c67e-14e0-1f4b004b072f",
                                     "badges": {
                                         "imageBased": [],
                                         "textBased": [],
                                         "textExtendedBadges": []
                                     },
-                                    "lastMileTravelString": "4.8 kms",
+                                    "lastMileTravelString": "9.5 kms",
                                     "hasSurge": false,
                                     "aggregatedDiscountInfoV3": {
-                                        "header": "35% OFF",
-                                        "subHeader": "",
+                                        "header": "15% OFF",
+                                        "subHeader": "ABOVE ₹1100",
                                         "discountTag": "FLAT DEAL",
                                         "headerTypeV2": 0
                                     },
                                     "sla": {
-                                        "restaurantId": "210945",
-                                        "deliveryTime": 30,
-                                        "minDeliveryTime": 30,
-                                        "maxDeliveryTime": 30,
-                                        "lastMileTravel": 4.800000190734863,
+                                        "restaurantId": "345504",
+                                        "deliveryTime": 35,
+                                        "minDeliveryTime": 35,
+                                        "maxDeliveryTime": 35,
+                                        "lastMileTravel": 9.5,
                                         "lastMileDistance": 0,
                                         "serviceability": "SERVICEABLE",
                                         "rainMode": "NONE",
-                                        "longDistance": "IT_IS_LONG_DISTANCE",
+                                        "longDistance": "NOT_LONG_DISTANCE",
                                         "preferentialService": false,
                                         "iconType": "EMPTY"
                                     },
-                                    "promoted": false,
-                                    "avgRating": "3.9",
+                                    "promoted": true,
+                                    "avgRating": "4.0",
                                     "totalRatings": 5000,
                                     "new": false
                                 },
@@ -1598,13 +1273,530 @@ export const RESTURANT_DATA={
                                 "type": "restaurant",
                                 "data": {
                                     "type": "F",
-                                    "id": "32603",
-                                    "name": "Leon's - Burgers & Wings (Leon Grill)",
-                                    "uuid": "8ce1ad82-7221-4e26-a63f-c0e50d268c9e",
+                                    "id": "262167",
+                                    "name": "Hotel Empire",
+                                    "uuid": "c087d70f-5cff-49ec-8b8a-e8b1a07a1977",
                                     "city": "1",
-                                    "area": "binnamangala",
+                                    "area": "Brookefields",
                                     "totalRatingsString": "10000+ ratings",
-                                    "cloudinaryImageId": "mtfco4meitoh97jynjxd",
+                                    "cloudinaryImageId": "weuqdjwzk3azoijehnel",
+                                    "cuisines": [
+                                        "North Indian",
+                                        "Kebabs",
+                                        "Biryani"
+                                    ],
+                                    "tags": [],
+                                    "costForTwo": 40000,
+                                    "costForTwoString": "₹400 FOR TWO",
+                                    "deliveryTime": 25,
+                                    "minDeliveryTime": 25,
+                                    "maxDeliveryTime": 25,
+                                    "slaString": "25 MINS",
+                                    "lastMileTravel": 0.8999999761581421,
+                                    "slugs": {
+                                        "restaurant": "hotel-empire-marathahalli-marathahalli",
+                                        "city": "bangalore"
+                                    },
+                                    "cityState": "1",
+                                    "address": "EMPIRE RESTAURANT ASK TOWERS,NO 7/3 OF THOOBARAHALLI VILLAGE,VARTHUR VILLAGE,VARTHOOR HOBLI 560037",
+                                    "locality": "",
+                                    "parentId": 475,
+                                    "unserviceable": false,
+                                    "veg": false,
+                                    "select": false,
+                                    "favorite": false,
+                                    "tradeCampaignHeaders": [],
+                                    "chain": [],
+                                    "feeDetails": {
+                                        "fees": [
+                                            {
+                                                "name": "time",
+                                                "fee": 0,
+                                                "message": ""
+                                            },
+                                            {
+                                                "name": "distance",
+                                                "fee": 3300,
+                                                "message": ""
+                                            },
+                                            {
+                                                "name": "special",
+                                                "fee": 0,
+                                                "message": ""
+                                            }
+                                        ],
+                                        "totalFees": 3300,
+                                        "message": "",
+                                        "title": "Delivery Charge",
+                                        "amount": "3300",
+                                        "icon": ""
+                                    },
+                                    "availability": {
+                                        "opened": true,
+                                        "nextOpenMessage": "",
+                                        "nextCloseMessage": ""
+                                    },
+                                    "longDistanceEnabled": 0,
+                                    "rainMode": "NONE",
+                                    "thirdPartyAddress": false,
+                                    "thirdPartyVendor": "",
+                                    "adTrackingID": "",
+                                    "badges": {
+                                        "imageBased": [],
+                                        "textBased": [],
+                                        "textExtendedBadges": []
+                                    },
+                                    "lastMileTravelString": "0.8 kms",
+                                    "hasSurge": false,
+                                    "aggregatedDiscountInfoV3": {
+                                        "header": "10% OFF",
+                                        "subHeader": "UPTO ₹40",
+                                        "discountTag": "",
+                                        "headerTypeV2": 0
+                                    },
+                                    "sla": {
+                                        "restaurantId": "262167",
+                                        "deliveryTime": 25,
+                                        "minDeliveryTime": 25,
+                                        "maxDeliveryTime": 25,
+                                        "lastMileTravel": 0.8999999761581421,
+                                        "lastMileDistance": 0,
+                                        "serviceability": "SERVICEABLE",
+                                        "rainMode": "NONE",
+                                        "longDistance": "NOT_LONG_DISTANCE",
+                                        "preferentialService": false,
+                                        "iconType": "EMPTY"
+                                    },
+                                    "promoted": false,
+                                    "avgRating": "3.9",
+                                    "totalRatings": 10000,
+                                    "new": false
+                                },
+                                "subtype": "basic"
+                            },
+                            {
+                                "type": "restaurant",
+                                "data": {
+                                    "type": "F",
+                                    "id": "636313",
+                                    "name": "The Rameshwaram Cafe",
+                                    "uuid": "ee7e2a22-42c6-4f59-b0a1-d1df6faf403d",
+                                    "city": "1",
+                                    "area": "Brookefield",
+                                    "totalRatingsString": "10000+ ratings",
+                                    "cloudinaryImageId": "0adee855c65fa947a256764a87a55658",
+                                    "cuisines": [
+                                        "South Indian"
+                                    ],
+                                    "tags": [],
+                                    "costForTwo": 25000,
+                                    "costForTwoString": "₹250 FOR TWO",
+                                    "deliveryTime": 17,
+                                    "minDeliveryTime": 17,
+                                    "maxDeliveryTime": 17,
+                                    "slaString": "17 MINS",
+                                    "lastMileTravel": 1.2000000476837158,
+                                    "slugs": {
+                                        "restaurant": "the-rameshwaram-café-whitefield-whitefield",
+                                        "city": "bangalore"
+                                    },
+                                    "cityState": "1",
+                                    "address": "AIKYAM - THE RAMESHWARAM CAFE PLOT NO. 01, ITPL MAIN ROAD, GREEN AVENUE - BENGALURU, INDIA, B.B.M.P East, Karnataka-560037",
+                                    "locality": "ITPL Main road",
+                                    "parentId": 384316,
+                                    "unserviceable": false,
+                                    "veg": true,
+                                    "select": false,
+                                    "favorite": false,
+                                    "tradeCampaignHeaders": [],
+                                    "chain": [],
+                                    "feeDetails": {
+                                        "fees": [
+                                            {
+                                                "name": "distance",
+                                                "fee": 3300,
+                                                "message": ""
+                                            },
+                                            {
+                                                "name": "time",
+                                                "fee": 0,
+                                                "message": ""
+                                            },
+                                            {
+                                                "name": "special",
+                                                "fee": 0,
+                                                "message": ""
+                                            }
+                                        ],
+                                        "totalFees": 3300,
+                                        "message": "",
+                                        "title": "Delivery Charge",
+                                        "amount": "3300",
+                                        "icon": ""
+                                    },
+                                    "availability": {
+                                        "opened": true,
+                                        "nextOpenMessage": "",
+                                        "nextCloseMessage": ""
+                                    },
+                                    "longDistanceEnabled": 0,
+                                    "rainMode": "NONE",
+                                    "thirdPartyAddress": false,
+                                    "thirdPartyVendor": "",
+                                    "adTrackingID": "",
+                                    "badges": {
+                                        "imageBased": [],
+                                        "textBased": [],
+                                        "textExtendedBadges": []
+                                    },
+                                    "lastMileTravelString": "1.2 kms",
+                                    "hasSurge": false,
+                                    "sla": {
+                                        "restaurantId": "636313",
+                                        "deliveryTime": 17,
+                                        "minDeliveryTime": 17,
+                                        "maxDeliveryTime": 17,
+                                        "lastMileTravel": 1.2000000476837158,
+                                        "lastMileDistance": 0,
+                                        "serviceability": "SERVICEABLE",
+                                        "rainMode": "NONE",
+                                        "longDistance": "NOT_LONG_DISTANCE",
+                                        "preferentialService": false,
+                                        "iconType": "EMPTY"
+                                    },
+                                    "promoted": false,
+                                    "avgRating": "4.6",
+                                    "totalRatings": 10000,
+                                    "new": false
+                                },
+                                "subtype": "basic"
+                            },
+                            {
+                                "type": "restaurant",
+                                "data": {
+                                    "type": "F",
+                                    "id": "1313",
+                                    "name": "Rolls On Wheels",
+                                    "uuid": "ecbf854d-9ee4-47fe-9562-832680fda2f3",
+                                    "city": "1",
+                                    "area": "Whitefield",
+                                    "totalRatingsString": "10000+ ratings",
+                                    "cloudinaryImageId": "cd378225ea0b386708df030ff9640e62",
+                                    "cuisines": [
+                                        "Fast Food",
+                                        "North Indian"
+                                    ],
+                                    "tags": [],
+                                    "costForTwo": 30000,
+                                    "costForTwoString": "₹300 FOR TWO",
+                                    "deliveryTime": 32,
+                                    "minDeliveryTime": 32,
+                                    "maxDeliveryTime": 32,
+                                    "slaString": "32 MINS",
+                                    "lastMileTravel": 8.5,
+                                    "slugs": {
+                                        "restaurant": "rolls-on-wheels-opp-hindustan-unilever-whitefield",
+                                        "city": "bangalore"
+                                    },
+                                    "cityState": "1",
+                                    "address": "ORBIS TOWER, 2ND FLOOR, PRASHANT EXTENSION, HOPE FARM JUCTION, WHITEFIELD, KADUGODI, BANGALORE,",
+                                    "locality": "Whitefield",
+                                    "parentId": 784,
+                                    "unserviceable": false,
+                                    "veg": false,
+                                    "select": false,
+                                    "favorite": false,
+                                    "tradeCampaignHeaders": [],
+                                    "ribbon": [
+                                        {
+                                            "type": "PROMOTED"
+                                        }
+                                    ],
+                                    "chain": [],
+                                    "feeDetails": {
+                                        "fees": [
+                                            {
+                                                "name": "time",
+                                                "fee": 0,
+                                                "message": ""
+                                            },
+                                            {
+                                                "name": "distance",
+                                                "fee": 10100,
+                                                "message": ""
+                                            },
+                                            {
+                                                "name": "special",
+                                                "fee": 0,
+                                                "message": ""
+                                            }
+                                        ],
+                                        "totalFees": 10100,
+                                        "message": "",
+                                        "title": "Delivery Charge",
+                                        "amount": "10100",
+                                        "icon": ""
+                                    },
+                                    "availability": {
+                                        "opened": true,
+                                        "nextOpenMessage": "",
+                                        "nextCloseMessage": "Closes soon"
+                                    },
+                                    "longDistanceEnabled": 0,
+                                    "rainMode": "NONE",
+                                    "thirdPartyAddress": false,
+                                    "thirdPartyVendor": "",
+                                    "adTrackingID": "cid=7138267~p=10~eid=00000188-cfb9-c67e-14e0-1f4c004b0a6f",
+                                    "badges": {
+                                        "imageBased": [],
+                                        "textBased": [],
+                                        "textExtendedBadges": []
+                                    },
+                                    "lastMileTravelString": "8.5 kms",
+                                    "hasSurge": false,
+                                    "aggregatedDiscountInfoV3": {
+                                        "header": "40% OFF",
+                                        "subHeader": "UPTO ₹80",
+                                        "discountTag": "",
+                                        "headerTypeV2": 0
+                                    },
+                                    "sla": {
+                                        "restaurantId": "1313",
+                                        "deliveryTime": 32,
+                                        "minDeliveryTime": 32,
+                                        "maxDeliveryTime": 32,
+                                        "lastMileTravel": 8.5,
+                                        "lastMileDistance": 0,
+                                        "serviceability": "SERVICEABLE",
+                                        "rainMode": "NONE",
+                                        "longDistance": "NOT_LONG_DISTANCE",
+                                        "preferentialService": false,
+                                        "iconType": "EMPTY"
+                                    },
+                                    "promoted": true,
+                                    "avgRating": "4.1",
+                                    "totalRatings": 10000,
+                                    "new": false
+                                },
+                                "subtype": "basic"
+                            },
+                            {
+                                "type": "restaurant",
+                                "data": {
+                                    "type": "F",
+                                    "id": "10866",
+                                    "name": "Pizza Hut",
+                                    "uuid": "f33c4b17-c360-4ed1-b039-f1baddf59b0a",
+                                    "city": "1",
+                                    "area": "Marathahalli",
+                                    "totalRatingsString": "10000+ ratings",
+                                    "cloudinaryImageId": "2b4f62d606d1b2bfba9ba9e5386fabb7",
+                                    "cuisines": [
+                                        "Pizzas"
+                                    ],
+                                    "tags": [],
+                                    "costForTwo": 35000,
+                                    "costForTwoString": "₹350 FOR TWO",
+                                    "deliveryTime": 25,
+                                    "minDeliveryTime": 25,
+                                    "maxDeliveryTime": 25,
+                                    "slaString": "25 MINS",
+                                    "lastMileTravel": 2,
+                                    "slugs": {
+                                        "restaurant": "pizza-hut-marathahalli-90-marathahalli",
+                                        "city": "bangalore"
+                                    },
+                                    "cityState": "1",
+                                    "address": "321/30, Munnekolalu Village, Varthur Hobli, Marthahalli",
+                                    "locality": "Munnekolalu Village",
+                                    "parentId": 721,
+                                    "unserviceable": false,
+                                    "veg": false,
+                                    "select": false,
+                                    "favorite": false,
+                                    "tradeCampaignHeaders": [],
+                                    "chain": [],
+                                    "feeDetails": {
+                                        "fees": [
+                                            {
+                                                "name": "distance",
+                                                "fee": 3300,
+                                                "message": ""
+                                            },
+                                            {
+                                                "name": "time",
+                                                "fee": 0,
+                                                "message": ""
+                                            },
+                                            {
+                                                "name": "special",
+                                                "fee": 0,
+                                                "message": ""
+                                            }
+                                        ],
+                                        "totalFees": 3300,
+                                        "message": "",
+                                        "title": "Delivery Charge",
+                                        "amount": "3300",
+                                        "icon": ""
+                                    },
+                                    "availability": {
+                                        "opened": true,
+                                        "nextOpenMessage": "",
+                                        "nextCloseMessage": ""
+                                    },
+                                    "longDistanceEnabled": 0,
+                                    "rainMode": "NONE",
+                                    "thirdPartyAddress": false,
+                                    "thirdPartyVendor": "",
+                                    "adTrackingID": "",
+                                    "badges": {
+                                        "imageBased": [],
+                                        "textBased": [],
+                                        "textExtendedBadges": []
+                                    },
+                                    "lastMileTravelString": "2 kms",
+                                    "hasSurge": false,
+                                    "aggregatedDiscountInfoV3": {
+                                        "header": "60% OFF",
+                                        "subHeader": "UPTO ₹120",
+                                        "discountTag": "",
+                                        "headerTypeV2": 0
+                                    },
+                                    "sla": {
+                                        "restaurantId": "10866",
+                                        "deliveryTime": 25,
+                                        "minDeliveryTime": 25,
+                                        "maxDeliveryTime": 25,
+                                        "lastMileTravel": 2,
+                                        "lastMileDistance": 0,
+                                        "serviceability": "SERVICEABLE",
+                                        "rainMode": "NONE",
+                                        "longDistance": "NOT_LONG_DISTANCE",
+                                        "preferentialService": false,
+                                        "iconType": "EMPTY"
+                                    },
+                                    "promoted": false,
+                                    "avgRating": "3.7",
+                                    "totalRatings": 10000,
+                                    "new": false
+                                },
+                                "subtype": "basic"
+                            },
+                            {
+                                "type": "restaurant",
+                                "data": {
+                                    "type": "F",
+                                    "id": "418",
+                                    "name": "Ande Ka Funda",
+                                    "uuid": "80f87c90-b6f4-48ef-b110-9bbfad549b39",
+                                    "city": "1",
+                                    "area": "Kadubeesanahalli",
+                                    "totalRatingsString": "10000+ ratings",
+                                    "cloudinaryImageId": "hwnvirxf8oxaubiflcag",
+                                    "cuisines": [
+                                        "North Indian"
+                                    ],
+                                    "tags": [],
+                                    "costForTwo": 10000,
+                                    "costForTwoString": "₹100 FOR TWO",
+                                    "deliveryTime": 25,
+                                    "minDeliveryTime": 25,
+                                    "maxDeliveryTime": 25,
+                                    "slaString": "25 MINS",
+                                    "lastMileTravel": 3.5,
+                                    "slugs": {
+                                        "restaurant": "ande-ka-funda-shymala-reddy-dental-college-road-marathahalli",
+                                        "city": "bangalore"
+                                    },
+                                    "cityState": "1",
+                                    "address": "6, Shymala Reddy Dental College Road, Marathahalli",
+                                    "locality": "Munnekolala",
+                                    "parentId": 15677,
+                                    "unserviceable": false,
+                                    "veg": false,
+                                    "select": false,
+                                    "favorite": false,
+                                    "tradeCampaignHeaders": [],
+                                    "chain": [],
+                                    "feeDetails": {
+                                        "fees": [
+                                            {
+                                                "name": "time",
+                                                "fee": 0,
+                                                "message": ""
+                                            },
+                                            {
+                                                "name": "distance",
+                                                "fee": 4100,
+                                                "message": ""
+                                            },
+                                            {
+                                                "name": "special",
+                                                "fee": 0,
+                                                "message": ""
+                                            }
+                                        ],
+                                        "totalFees": 4100,
+                                        "message": "",
+                                        "title": "Delivery Charge",
+                                        "amount": "4100",
+                                        "icon": ""
+                                    },
+                                    "availability": {
+                                        "opened": true,
+                                        "nextOpenMessage": "",
+                                        "nextCloseMessage": ""
+                                    },
+                                    "longDistanceEnabled": 0,
+                                    "rainMode": "NONE",
+                                    "thirdPartyAddress": false,
+                                    "thirdPartyVendor": "",
+                                    "adTrackingID": "",
+                                    "badges": {
+                                        "imageBased": [],
+                                        "textBased": [],
+                                        "textExtendedBadges": []
+                                    },
+                                    "lastMileTravelString": "3.5 kms",
+                                    "hasSurge": false,
+                                    "aggregatedDiscountInfoV3": {
+                                        "header": "20% OFF",
+                                        "subHeader": "UPTO ₹50",
+                                        "discountTag": "",
+                                        "headerTypeV2": 0
+                                    },
+                                    "sla": {
+                                        "restaurantId": "418",
+                                        "deliveryTime": 25,
+                                        "minDeliveryTime": 25,
+                                        "maxDeliveryTime": 25,
+                                        "lastMileTravel": 3.5,
+                                        "lastMileDistance": 0,
+                                        "serviceability": "SERVICEABLE",
+                                        "rainMode": "NONE",
+                                        "longDistance": "NOT_LONG_DISTANCE",
+                                        "preferentialService": false,
+                                        "iconType": "EMPTY"
+                                    },
+                                    "promoted": false,
+                                    "avgRating": "3.5",
+                                    "totalRatings": 10000,
+                                    "new": false
+                                },
+                                "subtype": "basic"
+                            },
+                            {
+                                "type": "restaurant",
+                                "data": {
+                                    "type": "F",
+                                    "id": "464266",
+                                    "name": "Leon's - Burgers & Wings (Leon Grill)",
+                                    "uuid": "1ee1e1b1-6695-493e-a904-c26242700dfd",
+                                    "city": "1",
+                                    "area": "KR Puram",
+                                    "totalRatingsString": "5000+ ratings",
+                                    "cloudinaryImageId": "ceh7zktfjmbka4eo9wzk",
                                     "cuisines": [
                                         "American",
                                         "Snacks",
@@ -1615,18 +1807,18 @@ export const RESTURANT_DATA={
                                     "tags": [],
                                     "costForTwo": 30000,
                                     "costForTwoString": "₹300 FOR TWO",
-                                    "deliveryTime": 26,
-                                    "minDeliveryTime": 26,
-                                    "maxDeliveryTime": 26,
-                                    "slaString": "26 MINS",
-                                    "lastMileTravel": 5.800000190734863,
+                                    "deliveryTime": 25,
+                                    "minDeliveryTime": 25,
+                                    "maxDeliveryTime": 25,
+                                    "slaString": "25 MINS",
+                                    "lastMileTravel": 5.900000095367432,
                                     "slugs": {
-                                        "restaurant": "leon-grill-indiranagar-indiranagar",
+                                        "restaurant": "leon-grill-battarahalli-battarahalli-2",
                                         "city": "bangalore"
                                     },
                                     "cityState": "1",
-                                    "address": "NO 839/1,BINNAMANGALA,FIRST  STAGE,BANGALORE, K R Puram, B.B.M.P East, Karnataka-560038",
-                                    "locality": "Indiranagar",
+                                    "address": "No. 39 K, No. 115/65 Hoodi main road, Ayyappanagar, KR Puram, Bangalore.  560036",
+                                    "locality": "Ayyappanagar",
                                     "parentId": 371281,
                                     "unserviceable": false,
                                     "veg": false,
@@ -1642,13 +1834,13 @@ export const RESTURANT_DATA={
                                     "feeDetails": {
                                         "fees": [
                                             {
-                                                "name": "distance",
-                                                "fee": 5500,
+                                                "name": "time",
+                                                "fee": 0,
                                                 "message": ""
                                             },
                                             {
-                                                "name": "time",
-                                                "fee": 0,
+                                                "name": "distance",
+                                                "fee": 6600,
                                                 "message": ""
                                             },
                                             {
@@ -1657,10 +1849,10 @@ export const RESTURANT_DATA={
                                                 "message": ""
                                             }
                                         ],
-                                        "totalFees": 5500,
+                                        "totalFees": 6600,
                                         "message": "",
                                         "title": "Delivery Charge",
-                                        "amount": "5500",
+                                        "amount": "6600",
                                         "icon": ""
                                     },
                                     "availability": {
@@ -1672,453 +1864,26 @@ export const RESTURANT_DATA={
                                     "rainMode": "NONE",
                                     "thirdPartyAddress": false,
                                     "thirdPartyVendor": "",
-                                    "adTrackingID": "cid=7152179~p=10~eid=00000188-d4a6-e2b0-017b-6f57007c0a61~srvts=1687194886832",
+                                    "adTrackingID": "cid=7124917~p=19~eid=00000188-cfb9-c67e-14e0-1f4f004b1372",
                                     "badges": {
                                         "imageBased": [],
                                         "textBased": [],
                                         "textExtendedBadges": []
                                     },
-                                    "lastMileTravelString": "5.8 kms",
-                                    "hasSurge": false,
-                                    "sla": {
-                                        "restaurantId": "32603",
-                                        "deliveryTime": 26,
-                                        "minDeliveryTime": 26,
-                                        "maxDeliveryTime": 26,
-                                        "lastMileTravel": 5.800000190734863,
-                                        "lastMileDistance": 0,
-                                        "serviceability": "SERVICEABLE",
-                                        "rainMode": "NONE",
-                                        "longDistance": "NOT_LONG_DISTANCE",
-                                        "preferentialService": false,
-                                        "iconType": "EMPTY"
-                                    },
-                                    "promoted": true,
-                                    "avgRating": "4.3",
-                                    "totalRatings": 10000,
-                                    "new": false
-                                },
-                                "subtype": "basic"
-                            },
-                            {
-                                "type": "restaurant",
-                                "data": {
-                                    "type": "F",
-                                    "id": "30531",
-                                    "name": "Hotel Empire",
-                                    "uuid": "fdf6686f-6f39-4a90-8eb0-6dc7abf82643",
-                                    "city": "1",
-                                    "area": "Brigade Road",
-                                    "totalRatingsString": "10000+ ratings",
-                                    "cloudinaryImageId": "qltgnkyywuo5gmnpqzbm",
-                                    "cuisines": [
-                                        "North Indian",
-                                        "Kebabs",
-                                        "Biryani"
-                                    ],
-                                    "tags": [],
-                                    "costForTwo": 45000,
-                                    "costForTwoString": "₹450 FOR TWO",
-                                    "deliveryTime": 25,
-                                    "minDeliveryTime": 25,
-                                    "maxDeliveryTime": 25,
-                                    "slaString": "25 MINS",
-                                    "lastMileTravel": 3,
-                                    "slugs": {
-                                        "restaurant": "empire-restaurant-central-bangalore-central-bangalore",
-                                        "city": "bangalore"
-                                    },
-                                    "cityState": "1",
-                                    "address": "Empire SuitesNo.35, Castle Street, Off Brigade Road,Bengaluru, Karnataka 560025",
-                                    "locality": "Brigade Road",
-                                    "parentId": 475,
-                                    "unserviceable": false,
-                                    "veg": false,
-                                    "select": false,
-                                    "favorite": false,
-                                    "tradeCampaignHeaders": [],
-                                    "chain": [],
-                                    "feeDetails": {
-                                        "fees": [
-                                            {
-                                                "name": "distance",
-                                                "fee": 4000,
-                                                "message": ""
-                                            },
-                                            {
-                                                "name": "time",
-                                                "fee": 0,
-                                                "message": ""
-                                            },
-                                            {
-                                                "name": "special",
-                                                "fee": 0,
-                                                "message": ""
-                                            }
-                                        ],
-                                        "totalFees": 4000,
-                                        "message": "",
-                                        "title": "Delivery Charge",
-                                        "amount": "4000",
-                                        "icon": ""
-                                    },
-                                    "availability": {
-                                        "opened": true,
-                                        "nextOpenMessage": "",
-                                        "nextCloseMessage": ""
-                                    },
-                                    "longDistanceEnabled": 0,
-                                    "rainMode": "NONE",
-                                    "thirdPartyAddress": false,
-                                    "thirdPartyVendor": "",
-                                    "adTrackingID": "",
-                                    "badges": {
-                                        "imageBased": [],
-                                        "textBased": [],
-                                        "textExtendedBadges": []
-                                    },
-                                    "lastMileTravelString": "3 kms",
+                                    "lastMileTravelString": "5.9 kms",
                                     "hasSurge": false,
                                     "aggregatedDiscountInfoV3": {
-                                        "header": "10% OFF",
-                                        "subHeader": "UPTO ₹40",
-                                        "discountTag": "",
-                                        "headerTypeV2": 0
-                                    },
-                                    "sla": {
-                                        "restaurantId": "30531",
-                                        "deliveryTime": 25,
-                                        "minDeliveryTime": 25,
-                                        "maxDeliveryTime": 25,
-                                        "lastMileTravel": 3,
-                                        "lastMileDistance": 0,
-                                        "serviceability": "SERVICEABLE",
-                                        "rainMode": "NONE",
-                                        "longDistance": "NOT_LONG_DISTANCE",
-                                        "preferentialService": false,
-                                        "iconType": "EMPTY"
-                                    },
-                                    "promoted": false,
-                                    "avgRating": "4.3",
-                                    "totalRatings": 10000,
-                                    "new": false
-                                },
-                                "subtype": "basic"
-                            },
-                            {
-                                "type": "restaurant",
-                                "data": {
-                                    "type": "F",
-                                    "id": "245536",
-                                    "name": "Brik Oven",
-                                    "uuid": "c741d511-f4db-4474-a763-b63442f0d579",
-                                    "city": "1",
-                                    "area": "Race Course Road",
-                                    "totalRatingsString": "1000+ ratings",
-                                    "cloudinaryImageId": "49352a71022a5b08a8361306ba253892",
-                                    "cuisines": [
-                                        "Italian",
-                                        "Pizzas",
-                                        "Desserts",
-                                        "Beverages"
-                                    ],
-                                    "tags": [],
-                                    "costForTwo": 70000,
-                                    "costForTwoString": "₹700 FOR TWO",
-                                    "deliveryTime": 30,
-                                    "minDeliveryTime": 30,
-                                    "maxDeliveryTime": 30,
-                                    "slaString": "30 MINS",
-                                    "lastMileTravel": 5,
-                                    "slugs": {
-                                        "restaurant": "brik-oven-rajajinagar-rajajinagar",
-                                        "city": "bangalore"
-                                    },
-                                    "cityState": "1",
-                                    "address": "The Courtyard, Prestiage Trade Towers,Unitle-6 ,No.45/1, palace Road,High Grounds,Sampangi Ramanagar,Bengaluru",
-                                    "locality": "Race Course Road",
-                                    "parentId": 7389,
-                                    "unserviceable": false,
-                                    "veg": false,
-                                    "select": false,
-                                    "favorite": false,
-                                    "tradeCampaignHeaders": [],
-                                    "ribbon": [
-                                        {
-                                            "type": "PROMOTED"
-                                        }
-                                    ],
-                                    "chain": [],
-                                    "feeDetails": {
-                                        "fees": [
-                                            {
-                                                "name": "distance",
-                                                "fee": 5500,
-                                                "message": ""
-                                            },
-                                            {
-                                                "name": "time",
-                                                "fee": 0,
-                                                "message": ""
-                                            },
-                                            {
-                                                "name": "special",
-                                                "fee": 0,
-                                                "message": ""
-                                            }
-                                        ],
-                                        "totalFees": 5500,
-                                        "message": "",
-                                        "title": "Delivery Charge",
-                                        "amount": "5500",
-                                        "icon": ""
-                                    },
-                                    "availability": {
-                                        "opened": true,
-                                        "nextOpenMessage": "",
-                                        "nextCloseMessage": ""
-                                    },
-                                    "longDistanceEnabled": 0,
-                                    "rainMode": "NONE",
-                                    "thirdPartyAddress": false,
-                                    "thirdPartyVendor": "",
-                                    "adTrackingID": "cid=6918774~p=13~eid=00000188-d4a6-e2b0-017b-6f58007c0d0c~srvts=1687194886832",
-                                    "badges": {
-                                        "imageBased": [],
-                                        "textBased": [],
-                                        "textExtendedBadges": []
-                                    },
-                                    "lastMileTravelString": "5 kms",
-                                    "hasSurge": false,
-                                    "aggregatedDiscountInfoV3": {
-                                        "header": "50% OFF",
-                                        "subHeader": "UPTO ₹100",
-                                        "discountTag": "",
-                                        "headerTypeV2": 0
-                                    },
-                                    "sla": {
-                                        "restaurantId": "245536",
-                                        "deliveryTime": 30,
-                                        "minDeliveryTime": 30,
-                                        "maxDeliveryTime": 30,
-                                        "lastMileTravel": 5,
-                                        "lastMileDistance": 0,
-                                        "serviceability": "SERVICEABLE",
-                                        "rainMode": "NONE",
-                                        "longDistance": "NOT_LONG_DISTANCE",
-                                        "preferentialService": false,
-                                        "iconType": "EMPTY"
-                                    },
-                                    "promoted": true,
-                                    "avgRating": "4.1",
-                                    "totalRatings": 1000,
-                                    "new": false
-                                },
-                                "subtype": "basic"
-                            },
-                            {
-                                "type": "restaurant",
-                                "data": {
-                                    "type": "F",
-                                    "id": "94703",
-                                    "name": "Sri Punjabi Dhaba",
-                                    "uuid": "244943ac-cb6b-439f-9a09-687af66615b1",
-                                    "city": "1",
-                                    "area": "BTM Layout",
-                                    "totalRatingsString": "10000+ ratings",
-                                    "cloudinaryImageId": "i53hrycmcn2oehrojag0",
-                                    "cuisines": [
-                                        "North Indian",
-                                        "Biryani",
-                                        "Chinese",
-                                        "Kebabs"
-                                    ],
-                                    "tags": [],
-                                    "costForTwo": 30000,
-                                    "costForTwoString": "₹300 FOR TWO",
-                                    "deliveryTime": 30,
-                                    "minDeliveryTime": 30,
-                                    "maxDeliveryTime": 30,
-                                    "slaString": "30 MINS",
-                                    "lastMileTravel": 6.300000190734863,
-                                    "slugs": {
-                                        "restaurant": "sri-punjabi-dhaba-bangalore-btm",
-                                        "city": "bangalore"
-                                    },
-                                    "cityState": "1",
-                                    "address": "Opposite 11th Cross 20th Main Rd,beside sri balaji wood Old Madiwala, Cashier Layout,  1st Stage, BTM 1st Stage, Bengaluru, Karnataka 560029",
-                                    "locality": "Cashier Layout",
-                                    "parentId": 21426,
-                                    "unserviceable": false,
-                                    "veg": false,
-                                    "select": false,
-                                    "favorite": false,
-                                    "tradeCampaignHeaders": [],
-                                    "chain": [],
-                                    "feeDetails": {
-                                        "fees": [
-                                            {
-                                                "name": "distance",
-                                                "fee": 6300,
-                                                "message": ""
-                                            },
-                                            {
-                                                "name": "time",
-                                                "fee": 0,
-                                                "message": ""
-                                            },
-                                            {
-                                                "name": "special",
-                                                "fee": 0,
-                                                "message": ""
-                                            }
-                                        ],
-                                        "totalFees": 6300,
-                                        "message": "",
-                                        "title": "Delivery Charge",
-                                        "amount": "6300",
-                                        "icon": ""
-                                    },
-                                    "availability": {
-                                        "opened": true,
-                                        "nextOpenMessage": "",
-                                        "nextCloseMessage": ""
-                                    },
-                                    "longDistanceEnabled": 1,
-                                    "rainMode": "NONE",
-                                    "thirdPartyAddress": false,
-                                    "thirdPartyVendor": "",
-                                    "adTrackingID": "",
-                                    "badges": {
-                                        "imageBased": [],
-                                        "textBased": [],
-                                        "textExtendedBadges": []
-                                    },
-                                    "lastMileTravelString": "6.3 kms",
-                                    "hasSurge": false,
-                                    "aggregatedDiscountInfoV3": {
-                                        "header": "60% OFF",
-                                        "subHeader": "",
-                                        "discountTag": "FLAT DEAL",
-                                        "headerTypeV2": 0
-                                    },
-                                    "sla": {
-                                        "restaurantId": "94703",
-                                        "deliveryTime": 30,
-                                        "minDeliveryTime": 30,
-                                        "maxDeliveryTime": 30,
-                                        "lastMileTravel": 6.300000190734863,
-                                        "lastMileDistance": 0,
-                                        "serviceability": "SERVICEABLE",
-                                        "rainMode": "NONE",
-                                        "longDistance": "IT_IS_LONG_DISTANCE",
-                                        "preferentialService": false,
-                                        "iconType": "EMPTY"
-                                    },
-                                    "promoted": false,
-                                    "avgRating": "3.1",
-                                    "totalRatings": 10000,
-                                    "new": false
-                                },
-                                "subtype": "basic"
-                            },
-                            {
-                                "type": "restaurant",
-                                "data": {
-                                    "type": "F",
-                                    "id": "656392",
-                                    "name": "Subway",
-                                    "uuid": "fd8364f7-f853-41f3-a477-9dc6d65d4385",
-                                    "city": "1",
-                                    "area": "Koramangala",
-                                    "totalRatingsString": "500+ ratings",
-                                    "cloudinaryImageId": "0bf19a82b109b40c2f5c56d00f071a33",
-                                    "cuisines": [
-                                        "Salads",
-                                        "Snacks",
-                                        "Desserts",
-                                        "Beverages"
-                                    ],
-                                    "tags": [],
-                                    "costForTwo": 35000,
-                                    "costForTwoString": "₹350 FOR TWO",
-                                    "deliveryTime": 25,
-                                    "minDeliveryTime": 25,
-                                    "maxDeliveryTime": 25,
-                                    "slaString": "25 MINS",
-                                    "lastMileTravel": 6.300000190734863,
-                                    "slugs": {
-                                        "restaurant": "subway-koramangala-koramangala-2",
-                                        "city": "bangalore"
-                                    },
-                                    "cityState": "1",
-                                    "address": "CNA Arcade, Ground Floor, No. 37, 1st Main, 1st Block, Koramangala, Bangalore-560034",
-                                    "locality": "1st Block",
-                                    "parentId": 2,
-                                    "unserviceable": false,
-                                    "veg": false,
-                                    "select": false,
-                                    "favorite": false,
-                                    "tradeCampaignHeaders": [],
-                                    "ribbon": [
-                                        {
-                                            "type": "PROMOTED"
-                                        }
-                                    ],
-                                    "chain": [],
-                                    "feeDetails": {
-                                        "fees": [
-                                            {
-                                                "name": "distance",
-                                                "fee": 6300,
-                                                "message": ""
-                                            },
-                                            {
-                                                "name": "time",
-                                                "fee": 0,
-                                                "message": ""
-                                            },
-                                            {
-                                                "name": "special",
-                                                "fee": 0,
-                                                "message": ""
-                                            }
-                                        ],
-                                        "totalFees": 6300,
-                                        "message": "",
-                                        "title": "Delivery Charge",
-                                        "amount": "6300",
-                                        "icon": ""
-                                    },
-                                    "availability": {
-                                        "opened": true,
-                                        "nextOpenMessage": "",
-                                        "nextCloseMessage": ""
-                                    },
-                                    "longDistanceEnabled": 0,
-                                    "rainMode": "NONE",
-                                    "thirdPartyAddress": false,
-                                    "thirdPartyVendor": "",
-                                    "adTrackingID": "cid=7147351~p=16~eid=00000188-d4a6-e2b0-017b-6f59007c1056~srvts=1687194886832",
-                                    "badges": {
-                                        "imageBased": [],
-                                        "textBased": [],
-                                        "textExtendedBadges": []
-                                    },
-                                    "lastMileTravelString": "6.3 kms",
-                                    "hasSurge": false,
-                                    "aggregatedDiscountInfoV3": {
-                                        "header": "15% OFF",
+                                        "header": "40% OFF",
                                         "subHeader": "UPTO ₹80",
                                         "discountTag": "",
                                         "headerTypeV2": 0
                                     },
                                     "sla": {
-                                        "restaurantId": "656392",
+                                        "restaurantId": "464266",
                                         "deliveryTime": 25,
                                         "minDeliveryTime": 25,
                                         "maxDeliveryTime": 25,
-                                        "lastMileTravel": 6.300000190734863,
+                                        "lastMileTravel": 5.900000095367432,
                                         "lastMileDistance": 0,
                                         "serviceability": "SERVICEABLE",
                                         "rainMode": "NONE",
@@ -2127,8 +1892,8 @@ export const RESTURANT_DATA={
                                         "iconType": "EMPTY"
                                     },
                                     "promoted": true,
-                                    "avgRating": "4.1",
-                                    "totalRatings": 500,
+                                    "avgRating": "4.0",
+                                    "totalRatings": 5000,
                                     "new": false
                                 },
                                 "subtype": "basic"
@@ -2137,36 +1902,141 @@ export const RESTURANT_DATA={
                                 "type": "restaurant",
                                 "data": {
                                     "type": "F",
-                                    "id": "196047",
-                                    "name": "New Taj Darbar",
-                                    "uuid": "94a6fc19-e819-4450-b52f-a96c5a32d565",
+                                    "id": "178387",
+                                    "name": "Hyderabadi Handi Biryani",
+                                    "uuid": "e6832cc6-4c6c-4976-a00b-f545b6de2fdf",
                                     "city": "1",
-                                    "area": "Shivajinagar",
+                                    "area": "Marathahalli",
                                     "totalRatingsString": "10000+ ratings",
-                                    "cloudinaryImageId": "nfieyqgxk1omknxfbluj",
+                                    "cloudinaryImageId": "ewzw2m8whkincsto9kqm",
                                     "cuisines": [
                                         "Biryani",
-                                        "Indian",
-                                        "Chinese",
+                                        "North Indian",
+                                        "Desserts",
                                         "Tandoor",
-                                        "Seafood"
+                                        "Hyderabadi",
+                                        "Andhra"
                                     ],
                                     "tags": [],
-                                    "costForTwo": 30000,
-                                    "costForTwoString": "₹300 FOR TWO",
-                                    "deliveryTime": 34,
-                                    "minDeliveryTime": 34,
-                                    "maxDeliveryTime": 34,
-                                    "slaString": "34 MINS",
-                                    "lastMileTravel": 4.800000190734863,
+                                    "costForTwo": 40000,
+                                    "costForTwoString": "₹400 FOR TWO",
+                                    "deliveryTime": 19,
+                                    "minDeliveryTime": 19,
+                                    "maxDeliveryTime": 19,
+                                    "slaString": "19 MINS",
+                                    "lastMileTravel": 3.799999952316284,
                                     "slugs": {
-                                        "restaurant": "new-taj-darbar-central-bangalore-central-bangalore",
+                                        "restaurant": "hyderabadi-handi-biryani-marathahalli-marathahalli",
                                         "city": "bangalore"
                                     },
                                     "cityState": "1",
-                                    "address": "New Taj Darbar, Shivaji Nagar, Bengaluru, Karnataka, India",
-                                    "locality": "Saint Mary's Church Road",
-                                    "parentId": 148190,
+                                    "address": "New Address No.32,ckb layout, munekolola, marthahali, Bangalore-37.",
+                                    "locality": "CKB Layout",
+                                    "parentId": 11087,
+                                    "unserviceable": false,
+                                    "veg": false,
+                                    "select": false,
+                                    "favorite": false,
+                                    "tradeCampaignHeaders": [],
+                                    "chain": [],
+                                    "feeDetails": {
+                                        "fees": [
+                                            {
+                                                "name": "time",
+                                                "fee": 0,
+                                                "message": ""
+                                            },
+                                            {
+                                                "name": "distance",
+                                                "fee": 4100,
+                                                "message": ""
+                                            },
+                                            {
+                                                "name": "special",
+                                                "fee": 0,
+                                                "message": ""
+                                            }
+                                        ],
+                                        "totalFees": 4100,
+                                        "message": "",
+                                        "title": "Delivery Charge",
+                                        "amount": "4100",
+                                        "icon": ""
+                                    },
+                                    "availability": {
+                                        "opened": true,
+                                        "nextOpenMessage": "",
+                                        "nextCloseMessage": ""
+                                    },
+                                    "longDistanceEnabled": 0,
+                                    "rainMode": "NONE",
+                                    "thirdPartyAddress": false,
+                                    "thirdPartyVendor": "",
+                                    "adTrackingID": "",
+                                    "badges": {
+                                        "imageBased": [],
+                                        "textBased": [],
+                                        "textExtendedBadges": []
+                                    },
+                                    "lastMileTravelString": "3.7 kms",
+                                    "hasSurge": false,
+                                    "aggregatedDiscountInfoV3": {
+                                        "header": "40% OFF",
+                                        "subHeader": "UPTO ₹80",
+                                        "discountTag": "",
+                                        "headerTypeV2": 0
+                                    },
+                                    "sla": {
+                                        "restaurantId": "178387",
+                                        "deliveryTime": 19,
+                                        "minDeliveryTime": 19,
+                                        "maxDeliveryTime": 19,
+                                        "lastMileTravel": 3.799999952316284,
+                                        "lastMileDistance": 0,
+                                        "serviceability": "SERVICEABLE",
+                                        "rainMode": "NONE",
+                                        "longDistance": "NOT_LONG_DISTANCE",
+                                        "preferentialService": false,
+                                        "iconType": "EMPTY"
+                                    },
+                                    "promoted": false,
+                                    "avgRating": "3.5",
+                                    "totalRatings": 10000,
+                                    "new": false
+                                },
+                                "subtype": "basic"
+                            },
+                            {
+                                "type": "restaurant",
+                                "data": {
+                                    "type": "F",
+                                    "id": "634166",
+                                    "name": "Burger King",
+                                    "uuid": "f3834a94-916d-453c-ab25-f41e43886ad2",
+                                    "city": "1",
+                                    "area": "Whitefield",
+                                    "totalRatingsString": "1000+ ratings",
+                                    "cloudinaryImageId": "e33e1d3ba7d6b2bb0d45e1001b731fcf",
+                                    "cuisines": [
+                                        "Burgers",
+                                        "American"
+                                    ],
+                                    "tags": [],
+                                    "costForTwo": 35000,
+                                    "costForTwoString": "₹350 FOR TWO",
+                                    "deliveryTime": 30,
+                                    "minDeliveryTime": 30,
+                                    "maxDeliveryTime": 30,
+                                    "slaString": "30 MINS",
+                                    "lastMileTravel": 4.800000190734863,
+                                    "slugs": {
+                                        "restaurant": "burger-king-nexus-whitefield-mall-whitefield",
+                                        "city": "bangalore"
+                                    },
+                                    "cityState": "1",
+                                    "address": "FC-11 3rd floor,Nexus Whitefield Mal,  Whitefield, Bengaluru, Karnataka 560066",
+                                    "locality": "Nexus Whitefield Mall",
+                                    "parentId": 166,
                                     "unserviceable": false,
                                     "veg": false,
                                     "select": false,
@@ -2177,7 +2047,7 @@ export const RESTURANT_DATA={
                                         "fees": [
                                             {
                                                 "name": "distance",
-                                                "fee": 4000,
+                                                "fee": 4900,
                                                 "message": ""
                                             },
                                             {
@@ -2191,18 +2061,18 @@ export const RESTURANT_DATA={
                                                 "message": ""
                                             }
                                         ],
-                                        "totalFees": 4000,
+                                        "totalFees": 4900,
                                         "message": "",
                                         "title": "Delivery Charge",
-                                        "amount": "4000",
+                                        "amount": "4900",
                                         "icon": ""
                                     },
                                     "availability": {
                                         "opened": true,
                                         "nextOpenMessage": "",
-                                        "nextCloseMessage": ""
+                                        "nextCloseMessage": "Closes soon"
                                     },
-                                    "longDistanceEnabled": 1,
+                                    "longDistanceEnabled": 0,
                                     "rainMode": "NONE",
                                     "thirdPartyAddress": false,
                                     "thirdPartyVendor": "",
@@ -2215,27 +2085,27 @@ export const RESTURANT_DATA={
                                     "lastMileTravelString": "4.8 kms",
                                     "hasSurge": false,
                                     "aggregatedDiscountInfoV3": {
-                                        "header": "30% OFF",
-                                        "subHeader": "UPTO ₹75",
+                                        "header": "60% OFF",
+                                        "subHeader": "UPTO ₹120",
                                         "discountTag": "",
                                         "headerTypeV2": 0
                                     },
                                     "sla": {
-                                        "restaurantId": "196047",
-                                        "deliveryTime": 34,
-                                        "minDeliveryTime": 34,
-                                        "maxDeliveryTime": 34,
+                                        "restaurantId": "634166",
+                                        "deliveryTime": 30,
+                                        "minDeliveryTime": 30,
+                                        "maxDeliveryTime": 30,
                                         "lastMileTravel": 4.800000190734863,
                                         "lastMileDistance": 0,
                                         "serviceability": "SERVICEABLE",
                                         "rainMode": "NONE",
-                                        "longDistance": "IT_IS_LONG_DISTANCE",
+                                        "longDistance": "NOT_LONG_DISTANCE",
                                         "preferentialService": false,
                                         "iconType": "EMPTY"
                                     },
                                     "promoted": false,
-                                    "avgRating": "3.4",
-                                    "totalRatings": 10000,
+                                    "avgRating": "3.9",
+                                    "totalRatings": 1000,
                                     "new": false
                                 },
                                 "subtype": "basic"
@@ -2244,46 +2114,50 @@ export const RESTURANT_DATA={
                                 "type": "restaurant",
                                 "data": {
                                     "type": "F",
-                                    "id": "3369",
-                                    "name": "Truffles",
-                                    "uuid": "992d9ef3-bef1-4d1a-8a96-3ced9e363d43",
+                                    "id": "3206",
+                                    "name": "Pathaan Sir",
+                                    "uuid": "363ef732-fa3a-418b-a026-879f73d17b82",
                                     "city": "1",
-                                    "area": "St Marks Road",
+                                    "area": "Indiranagar",
                                     "totalRatingsString": "10000+ ratings",
-                                    "cloudinaryImageId": "cd832b6167eb9f88aeb1ccdebf38d942",
+                                    "cloudinaryImageId": "bada5c2fcb77448b6934373c840f3397",
                                     "cuisines": [
-                                        "American",
-                                        "Desserts",
-                                        "Continental",
-                                        "Italian"
+                                        "Fast Food",
+                                        "Snacks",
+                                        "North Indian"
                                     ],
                                     "tags": [],
-                                    "costForTwo": 45000,
-                                    "costForTwoString": "₹450 FOR TWO",
-                                    "deliveryTime": 23,
-                                    "minDeliveryTime": 23,
-                                    "maxDeliveryTime": 23,
-                                    "slaString": "23 MINS",
-                                    "lastMileTravel": 2.5999999046325684,
+                                    "costForTwo": 20000,
+                                    "costForTwoString": "₹200 FOR TWO",
+                                    "deliveryTime": 33,
+                                    "minDeliveryTime": 33,
+                                    "maxDeliveryTime": 33,
+                                    "slaString": "33 MINS",
+                                    "lastMileTravel": 9.300000190734863,
                                     "slugs": {
-                                        "restaurant": "truffles-ice-spice-central-bangalore",
+                                        "restaurant": "pathan-saheb-indiranagar",
                                         "city": "bangalore"
                                     },
                                     "cityState": "1",
-                                    "address": "22, St. Marks Road, Bangalore",
-                                    "locality": "Ashok Nagar",
-                                    "parentId": 218065,
+                                    "address": "No. G-2, 621-B, 12th Main, HAL 2nd Stage, Indiranagar, Bangalore - 560038",
+                                    "locality": "HAL 2nd Stage",
+                                    "parentId": 708,
                                     "unserviceable": false,
                                     "veg": false,
                                     "select": false,
                                     "favorite": false,
                                     "tradeCampaignHeaders": [],
+                                    "ribbon": [
+                                        {
+                                            "type": "PROMOTED"
+                                        }
+                                    ],
                                     "chain": [],
                                     "feeDetails": {
                                         "fees": [
                                             {
                                                 "name": "distance",
-                                                "fee": 3000,
+                                                "fee": 11600,
                                                 "message": ""
                                             },
                                             {
@@ -2297,10 +2171,117 @@ export const RESTURANT_DATA={
                                                 "message": ""
                                             }
                                         ],
-                                        "totalFees": 3000,
+                                        "totalFees": 11600,
                                         "message": "",
                                         "title": "Delivery Charge",
-                                        "amount": "3000",
+                                        "amount": "11600",
+                                        "icon": ""
+                                    },
+                                    "availability": {
+                                        "opened": true,
+                                        "nextOpenMessage": "",
+                                        "nextCloseMessage": ""
+                                    },
+                                    "longDistanceEnabled": 0,
+                                    "rainMode": "NONE",
+                                    "thirdPartyAddress": false,
+                                    "thirdPartyVendor": "",
+                                    "adTrackingID": "cid=7150383~p=16~eid=00000188-cfb9-c67e-14e0-1f4e004b1056",
+                                    "badges": {
+                                        "imageBased": [],
+                                        "textBased": [],
+                                        "textExtendedBadges": []
+                                    },
+                                    "lastMileTravelString": "9.3 kms",
+                                    "hasSurge": false,
+                                    "aggregatedDiscountInfoV3": {
+                                        "header": "₹125 OFF",
+                                        "subHeader": "ABOVE ₹599",
+                                        "discountTag": "FLAT DEAL",
+                                        "headerTypeV2": 0
+                                    },
+                                    "sla": {
+                                        "restaurantId": "3206",
+                                        "deliveryTime": 33,
+                                        "minDeliveryTime": 33,
+                                        "maxDeliveryTime": 33,
+                                        "lastMileTravel": 9.300000190734863,
+                                        "lastMileDistance": 0,
+                                        "serviceability": "SERVICEABLE",
+                                        "rainMode": "NONE",
+                                        "longDistance": "NOT_LONG_DISTANCE",
+                                        "preferentialService": false,
+                                        "iconType": "EMPTY"
+                                    },
+                                    "promoted": true,
+                                    "avgRating": "4.0",
+                                    "totalRatings": 10000,
+                                    "new": false
+                                },
+                                "subtype": "basic"
+                            },
+                            {
+                                "type": "restaurant",
+                                "data": {
+                                    "type": "F",
+                                    "id": "210119",
+                                    "name": "Sri Jayadurga Biryani",
+                                    "uuid": "13927ae4-7437-4d24-959e-888585c704e8",
+                                    "city": "1",
+                                    "area": "Marathahalli",
+                                    "totalRatingsString": "10000+ ratings",
+                                    "cloudinaryImageId": "e5k8viofbtrxxo75lxdy",
+                                    "cuisines": [
+                                        "Biryani",
+                                        "South Indian",
+                                        "Andhra",
+                                        "Hyderabadi",
+                                        "Snacks"
+                                    ],
+                                    "tags": [],
+                                    "costForTwo": 30000,
+                                    "costForTwoString": "₹300 FOR TWO",
+                                    "deliveryTime": 16,
+                                    "minDeliveryTime": 16,
+                                    "maxDeliveryTime": 16,
+                                    "slaString": "16 MINS",
+                                    "lastMileTravel": 2.700000047683716,
+                                    "slugs": {
+                                        "restaurant": "sri-jayadurga-biryani-marathahalli-marathahalli",
+                                        "city": "bangalore"
+                                    },
+                                    "cityState": "1",
+                                    "address": "Sri Jaya Durga Restaurant, OPP AMRUTHA BAKERY, LAKSHMI NARAYANA TEMPLE ROAD, MUNNEKOLALA, MARATHAHALLI, BANGALORE",
+                                    "locality": "Munnekollal",
+                                    "parentId": 14529,
+                                    "unserviceable": false,
+                                    "veg": false,
+                                    "select": false,
+                                    "favorite": false,
+                                    "tradeCampaignHeaders": [],
+                                    "chain": [],
+                                    "feeDetails": {
+                                        "fees": [
+                                            {
+                                                "name": "time",
+                                                "fee": 0,
+                                                "message": ""
+                                            },
+                                            {
+                                                "name": "distance",
+                                                "fee": 3300,
+                                                "message": ""
+                                            },
+                                            {
+                                                "name": "special",
+                                                "fee": 0,
+                                                "message": ""
+                                            }
+                                        ],
+                                        "totalFees": 3300,
+                                        "message": "",
+                                        "title": "Delivery Charge",
+                                        "amount": "3300",
                                         "icon": ""
                                     },
                                     "availability": {
@@ -2318,14 +2299,20 @@ export const RESTURANT_DATA={
                                         "textBased": [],
                                         "textExtendedBadges": []
                                     },
-                                    "lastMileTravelString": "2.5 kms",
+                                    "lastMileTravelString": "2.7 kms",
                                     "hasSurge": false,
+                                    "aggregatedDiscountInfoV3": {
+                                        "header": "₹125 OFF",
+                                        "subHeader": "ABOVE ₹599",
+                                        "discountTag": "FLAT DEAL",
+                                        "headerTypeV2": 0
+                                    },
                                     "sla": {
-                                        "restaurantId": "3369",
-                                        "deliveryTime": 23,
-                                        "minDeliveryTime": 23,
-                                        "maxDeliveryTime": 23,
-                                        "lastMileTravel": 2.5999999046325684,
+                                        "restaurantId": "210119",
+                                        "deliveryTime": 16,
+                                        "minDeliveryTime": 16,
+                                        "maxDeliveryTime": 16,
+                                        "lastMileTravel": 2.700000047683716,
                                         "lastMileDistance": 0,
                                         "serviceability": "SERVICEABLE",
                                         "rainMode": "NONE",
@@ -2334,125 +2321,14 @@ export const RESTURANT_DATA={
                                         "iconType": "EMPTY"
                                     },
                                     "promoted": false,
-                                    "avgRating": "4.4",
+                                    "avgRating": "3.6",
                                     "totalRatings": 10000,
-                                    "new": false
-                                },
-                                "subtype": "basic"
-                            },
-                            {
-                                "type": "restaurant",
-                                "data": {
-                                    "type": "F",
-                                    "id": "288943",
-                                    "name": "Dofu",
-                                    "uuid": "0556a2d8-915a-465a-9ea6-f54b55d0bbd1",
-                                    "city": "1",
-                                    "area": "Indiranagar",
-                                    "totalRatingsString": "1000+ ratings",
-                                    "cloudinaryImageId": "jw2wqm8gljj1wjurrblm",
-                                    "cuisines": [
-                                        "Korean",
-                                        "Asian",
-                                        "Chinese",
-                                        "Japanese"
-                                    ],
-                                    "tags": [],
-                                    "costForTwo": 70000,
-                                    "costForTwoString": "₹700 FOR TWO",
-                                    "deliveryTime": 30,
-                                    "minDeliveryTime": 30,
-                                    "maxDeliveryTime": 30,
-                                    "slaString": "30 MINS",
-                                    "lastMileTravel": 4.900000095367432,
-                                    "slugs": {
-                                        "restaurant": "dofu-indiranagar-indiranagar",
-                                        "city": "bangalore"
-                                    },
-                                    "cityState": "1",
-                                    "address": "303, ground floor, Ashok Terrace, 100 feet road, Indiranagar, Bengaluru, Karnataka 560038, India",
-                                    "locality": "100 Feet Road",
-                                    "parentId": 21138,
-                                    "unserviceable": false,
-                                    "veg": false,
-                                    "select": false,
-                                    "favorite": false,
-                                    "tradeCampaignHeaders": [],
-                                    "ribbon": [
-                                        {
-                                            "type": "PROMOTED"
-                                        }
-                                    ],
-                                    "chain": [],
-                                    "feeDetails": {
-                                        "fees": [
-                                            {
-                                                "name": "distance",
-                                                "fee": 4000,
-                                                "message": ""
-                                            },
-                                            {
-                                                "name": "time",
-                                                "fee": 0,
-                                                "message": ""
-                                            },
-                                            {
-                                                "name": "special",
-                                                "fee": 0,
-                                                "message": ""
-                                            }
-                                        ],
-                                        "totalFees": 4000,
-                                        "message": "",
-                                        "title": "Delivery Charge",
-                                        "amount": "4000",
-                                        "icon": ""
-                                    },
-                                    "availability": {
-                                        "opened": true,
-                                        "nextOpenMessage": "",
-                                        "nextCloseMessage": "Closes soon"
-                                    },
-                                    "longDistanceEnabled": 0,
-                                    "rainMode": "NONE",
-                                    "thirdPartyAddress": false,
-                                    "thirdPartyVendor": "",
-                                    "adTrackingID": "cid=6918700~p=19~eid=00000188-d4a6-e2b0-017b-6f5a007c134b~srvts=1687194886832",
-                                    "badges": {
-                                        "imageBased": [],
-                                        "textBased": [],
-                                        "textExtendedBadges": []
-                                    },
-                                    "lastMileTravelString": "4.9 kms",
-                                    "hasSurge": false,
-                                    "aggregatedDiscountInfoV3": {
-                                        "header": "₹150 OFF",
-                                        "subHeader": "ABOVE ₹799",
-                                        "discountTag": "FLAT DEAL",
-                                        "headerTypeV2": 0
-                                    },
-                                    "sla": {
-                                        "restaurantId": "288943",
-                                        "deliveryTime": 30,
-                                        "minDeliveryTime": 30,
-                                        "maxDeliveryTime": 30,
-                                        "lastMileTravel": 4.900000095367432,
-                                        "lastMileDistance": 0,
-                                        "serviceability": "SERVICEABLE",
-                                        "rainMode": "NONE",
-                                        "longDistance": "NOT_LONG_DISTANCE",
-                                        "preferentialService": false,
-                                        "iconType": "EMPTY"
-                                    },
-                                    "promoted": true,
-                                    "avgRating": "4.0",
-                                    "totalRatings": 1000,
                                     "new": false
                                 },
                                 "subtype": "basic"
                             }
                         ],
-                        "totalRestaurants": 1386
+                        "totalRestaurants": 810
                     },
                     "subtype": "personalized"
                 },
@@ -2461,8 +2337,8 @@ export const RESTURANT_DATA={
         ],
         "nextPageFetch": 0
     },
-    "tid": "20ffa88b-819a-4239-aedd-b6944bf0b147",
-    "sid": "7py6be04-febb-457a-a1ed-a3d30b4580ec",
-    "deviceId": "888f55a1-f957-3538-9ec4-92a15a5573fd",
-    "csrfToken": "EcAYMvE5r9vl-KBBL1K1fgJqKpkGXNDEfoT_K7rM"
+    "tid": "c08ce8b1-8bf4-4d00-b8c2-a0ecf29c96c8",
+    "sid": "7pb22616-48cf-46e8-9844-4045cd778f05",
+    "deviceId": "f3f9f450-747d-ee68-867a-d4fa1ae7107c",
+    "csrfToken": "UsLqWH28cf1G-yz1rdf9K3BMK-pshcenrDtYHhJ0"
 }

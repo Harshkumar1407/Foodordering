@@ -1,10 +1,11 @@
 import ResturantCard from "./ResturantCard";
-import resList from "../utilits/mockData";
+
 import { useState, useEffect } from "react";
 import Shimmer from "./Shimmer";
 import { Link } from "react-router-dom";
 import { filterData } from "../utilits/helper";
 import useOnline from "../utilits/useOnline";
+import { RESTAURANT_DATA } from "../mocks/mockData";
 
 
 
@@ -22,10 +23,10 @@ const Body = () => {
       "https://www.swiggy.com/dapi/restaurants/list/v5?lat=12.9580069&lng=77.6092188&page_type=DESKTOP_WEB_LISTING"
     );
     const json = await data.json();
-    // console.log(json);
+     console.log(RESTAURANT_DATA?.data?.cards[2]?.data?.data?.cards);
     //console.log(json?.data?.cards[2]?.data?.data?.cards);
-    setListOfAllResturants(json?.data?.cards[2]?.data?.data?.cards);
-    setFilteredResturants(json?.data?.cards[2]?.data?.data?.cards);
+    setFilteredResturants(RESTAURANT_DATA?.data?.cards[2]?.data?.data?.cards);
+    setListOfAllResturants(RESTAURANT_DATA?.data?.cards[2]?.data?.data?.cards);
   };
 
  // console.log("rerender");

@@ -41,14 +41,17 @@ const Header = () => {
         <Link to="/cart">
           <li className="px-2 m-2" data-testid="cart">Cart-{cartIteams.length} items</li>
         </Link>
-      </div>
-     <h1 data-testid="online-status"> {isOnline ? "online" : "offline"}</h1>
-      {user.email}
+      <Link>
+      <h1 className="px-2 m-2" data-testid="online-status"> {isOnline ? "online" : "offline"}</h1>
+      </Link>
+     
+      {/* {user.email} */}
       {isloggedIn ? (
         <button onClick={() => setIsLoggedIn(false)}>logout</button>
       ) : (
         <button onClick={() => setIsLoggedIn(true)}>Login</button>
       )}
+      </div>
     </div>
   );
 };
